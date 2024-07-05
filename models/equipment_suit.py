@@ -9,10 +9,10 @@ class EquipmentSuit(BaseModel):
     """驱动盘套装ID"""
     name: str
     """套装名称"""
+    name_en: str
+    """英文套装名称"""
     icon: str = ""
     """套装图标"""
-    image_list: List[str] = []
-    """套装子图"""
     desc_2: str
     """2套描述"""
     desc_4: str
