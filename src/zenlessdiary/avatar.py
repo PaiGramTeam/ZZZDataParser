@@ -58,6 +58,15 @@ def apply_image_to_avatar(avatars: List[Avatar]):
             ava.icon = [avatar.first_image, "", avatar.banner_image]
 
 
+def notice_none():
+    if names := [
+        value.name
+        for value in all_avatars_en_map.values()
+        if not (value.icon_ and value.gacha)
+    ]:
+        print(f"未获取到角色图片资源：{names}")
+
+
 async def main():
     html = await get_characters_html()
     avatars = get_all_characters_links(html)
@@ -65,3 +74,4 @@ async def main():
     await asyncio.gather(*tasks)
     apply_image_to_avatar(avatars)
     await dump_avatars()
+    notice_none()

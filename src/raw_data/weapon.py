@@ -11,6 +11,7 @@ from src.raw_data.base_data import get_base_data
 from src.raw_data.url import text_map, weapon_config, text_en_map
 
 all_weapons: List[Weapon] = []
+all_weapons_en_map: Dict[str, Weapon] = {}
 
 
 async def parse_config_to_weapon(
@@ -34,7 +35,7 @@ async def parse_config_to_weapon(
 
 
 async def fetch_weapons() -> List[Weapon]:
-    global all_weapons
+    global all_weapons, all_weapons_en_map
     text_map_data = await get_base_data(text_map)
     text_en_map_data = await get_base_data(text_en_map)
     data = await get_base_data(weapon_config)
@@ -44,6 +45,11 @@ async def fetch_weapons() -> List[Weapon]:
     ]
     datas: List[Weapon] = await asyncio.gather(*tasks)
     all_weapons = datas
+
+    all_weapons_en_map.clear()
+    for weapon in all_weapons:
+        all_weapons_en_map[weapon.name_en.lower()] = weapon
+
     return all_weapons
 
 
