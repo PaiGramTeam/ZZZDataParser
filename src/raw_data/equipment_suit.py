@@ -14,9 +14,9 @@ all_equipment_suits: List[EquipmentSuit] = []
 
 
 async def parse_config_to_weapon(
-        text_map_data: Dict[str, str],
-        text_en_map_data: Dict[str, str],
-        config: Dict[str, str],
+    text_map_data: Dict[str, str],
+    text_en_map_data: Dict[str, str],
+    config: Dict[str, str],
 ) -> EquipmentSuit:
     sid = config["HBKDOIKGNDE"]
     name = text_map_data[config["DIIDBBGLDOL"]]
@@ -39,7 +39,10 @@ async def fetch_equipment_suits() -> List[EquipmentSuit]:
     text_map_data = await get_base_data(text_map)
     text_en_map_data = await get_base_data(text_en_map)
     data = await get_base_data(equipment_suit_config)
-    tasks = [parse_config_to_weapon(text_map_data, text_en_map_data, i) for i in data["GMNCBMLIHPE"]]
+    tasks = [
+        parse_config_to_weapon(text_map_data, text_en_map_data, i)
+        for i in data["GMNCBMLIHPE"]
+    ]
     datas: List[EquipmentSuit] = await asyncio.gather(*tasks)
     all_equipment_suits = datas
     return all_equipment_suits

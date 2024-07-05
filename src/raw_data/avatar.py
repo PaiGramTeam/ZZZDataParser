@@ -11,13 +11,16 @@ from src.raw_data.base_data import get_base_data
 from src.raw_data.url import text_map, avatar_config
 
 all_avatars: List[Avatar] = []
+all_avatars_en_map: Dict[str, Avatar] = {}
 
 
 async def fetch_text_map() -> Dict[str, str]:
     return await get_base_data(text_map)
 
 
-async def parse_config_to_avatar(text_map_data: Dict[str, str], config: Dict[str, str]) -> Avatar:
+async def parse_config_to_avatar(
+    text_map_data: Dict[str, str], config: Dict[str, str]
+) -> Avatar:
     aid = config["HBKDOIKGNDE"]
     name = text_map_data[config["DIIDBBGLDOL"]]
     name_en = text_map_data[config["LAFKHMCKNIO"]]
@@ -26,7 +29,6 @@ async def parse_config_to_avatar(text_map_data: Dict[str, str], config: Dict[str
     rank = 0
     element = config["KDGGNBOFDOE"][0]
     speciality = config["FCDEDAOHMIO"]
-    icon = ""
     return Avatar(
         id=aid,
         name=name,
@@ -36,17 +38,21 @@ async def parse_config_to_avatar(text_map_data: Dict[str, str], config: Dict[str
         rank=rank,
         element=element,
         speciality=speciality,
-        icon=icon,
     )
 
 
 async def fetch_avatars() -> List[Avatar]:
-    global all_avatars
+    global all_avatars, all_avatars_en_map
     text_map_data = await fetch_text_map()
     data = await get_base_data(avatar_config)
     tasks = [parse_config_to_avatar(text_map_data, i) for i in data["GMNCBMLIHPE"]]
     datas: List[Avatar] = await asyncio.gather(*tasks)
     all_avatars = datas
+
+    all_avatars_en_map.clear()
+    for avatar in all_avatars:
+        all_avatars_en_map[avatar.name_en.lower()] = avatar
+
     return all_avatars
 
 

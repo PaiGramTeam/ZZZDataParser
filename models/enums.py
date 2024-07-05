@@ -3,6 +3,7 @@ from enum import Enum, IntEnum
 
 class ZZZElementType(IntEnum):
     """ZZZ element type."""
+
     NULL = 1
     """ 空 """
     PHYSICAL = 200

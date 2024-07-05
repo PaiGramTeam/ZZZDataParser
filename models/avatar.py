@@ -1,9 +1,11 @@
+from typing import List
+
 from pydantic import BaseModel
 
 from .enums import ZZZElementType, ZZZSpeciality
 
 
-class Avatar(BaseModel):
+class Avatar(BaseModel, frozen=False):
     id: int
     """ 角色ID """
     name: str
@@ -20,5 +22,17 @@ class Avatar(BaseModel):
     """ 元素 """
     speciality: ZZZSpeciality
     """ 特性 """
-    icon: str
+    icon: List[str] = ["", "", ""]
     """ 图标 """
+
+    @property
+    def icon_(self) -> str:
+        return self.icon[0]
+
+    @property
+    def normal(self) -> str:
+        return self.icon[1]
+
+    @property
+    def gacha(self) -> str:
+        return self.icon[2]

@@ -4,7 +4,7 @@ import aiofiles
 import ujson
 
 from path import raw_path
-from .client import client
+from src.client import client
 from .url import base_data_url
 
 

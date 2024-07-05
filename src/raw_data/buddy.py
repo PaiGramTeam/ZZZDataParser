@@ -13,7 +13,9 @@ from src.raw_data.url import text_map, buddy_config
 all_buddy: List[Buddy] = []
 
 
-async def parse_config_to_buddy(text_map_data: Dict[str, str], config: Dict[str, str]) -> Buddy:
+async def parse_config_to_buddy(
+    text_map_data: Dict[str, str], config: Dict[str, str]
+) -> Buddy:
     bid = config["HBKDOIKGNDE"]
     name = text_map_data[config["DIIDBBGLDOL"]]
     name_en = text_map_data[config["LAFKHMCKNIO"]]
