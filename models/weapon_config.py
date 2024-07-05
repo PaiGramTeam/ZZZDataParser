@@ -3,9 +3,9 @@ from typing import List
 from pydantic import BaseModel
 
 
-class LightConeIcon(BaseModel):
+class WeaponIcon(BaseModel):
     id: int
-    """光锥ID"""
+    """武器ID"""
     name: str
     """名称"""
     icon: List[str]

@@ -6,3 +6,4 @@ data_path.mkdir(exist_ok=True)
 raw_path.mkdir(exist_ok=True)
 
 avatars_path = data_path / "avatars.json"
+weapons_path = data_path / "weapons.json"
