@@ -11,6 +11,7 @@ from src.raw_data.base_data import get_base_data
 from src.raw_data.url import text_map, buddy_config
 
 all_buddy: List[Buddy] = []
+all_buddy_en_map: Dict[str, Buddy] = {}
 
 
 async def parse_config_to_buddy(
@@ -27,12 +28,17 @@ async def parse_config_to_buddy(
 
 
 async def fetch_buddy() -> List[Buddy]:
-    global all_buddy
+    global all_buddy, all_buddy_en_map
     text_map_data = await get_base_data(text_map)
     data = await get_base_data(buddy_config)
     tasks = [parse_config_to_buddy(text_map_data, i) for i in data["GMNCBMLIHPE"]]
     datas: List[Buddy] = await asyncio.gather(*tasks)
     all_buddy = datas
+
+    all_buddy_en_map.clear()
+    for buddy in datas:
+        all_buddy_en_map[buddy.name_en.lower()] = buddy
+
     return all_buddy
 
 
