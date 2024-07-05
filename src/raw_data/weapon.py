@@ -10,7 +10,7 @@ from path import weapons_path
 from src.raw_data.base_data import get_base_data
 from src.raw_data.url import text_map, weapon_config
 
-all_weapons: List[Weapon] = []
+all_equipment_suits: List[Weapon] = []
 
 
 async def parse_config_to_weapon(text_map_data: Dict[str, str], config: Dict[str, str]) -> Weapon:
@@ -28,7 +28,7 @@ async def parse_config_to_weapon(text_map_data: Dict[str, str], config: Dict[str
 
 
 async def fetch_weapons() -> List[Weapon]:
-    global all_weapons
+    global all_equipment_suits
     text_map_data = await get_base_data(text_map)
     data = await get_base_data(weapon_config)
     tasks = [parse_config_to_weapon(text_map_data, i) for i in data["GMNCBMLIHPE"]]
@@ -38,7 +38,7 @@ async def fetch_weapons() -> List[Weapon]:
 
 
 async def dump_weapons():
-    data = [avatar.dict() for avatar in all_weapons]
+    data = [avatar.dict() for avatar in all_equipment_suits]
     data.sort(key=lambda x: x["id"])
     async with aiofiles.open(weapons_path, "w", encoding="utf-8") as f:
         await f.write(ujson.dumps(data, indent=4, ensure_ascii=False))

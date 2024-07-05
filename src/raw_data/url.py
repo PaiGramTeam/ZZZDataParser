@@ -8,3 +8,4 @@ base_data_url = URL(base64.b64decode(
 text_map = base_data_url / "TextMap" / "TextMapTemplateTb.json"
 avatar_config = base_data_url / "FileCfg" / "AvatarBaseTemplateTb.json"
 weapon_config = base_data_url / "FileCfg" / "WeaponTemplateTb.json"
+equipment_suit_config = base_data_url / "FileCfg" / "EquipmentSuitTemplateTb.json"

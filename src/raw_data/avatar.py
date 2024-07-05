@@ -10,7 +10,7 @@ from path import avatars_path
 from src.raw_data.base_data import get_base_data
 from src.raw_data.url import text_map, avatar_config
 
-all_weapons: List[Avatar] = []
+all_equipment_suits: List[Avatar] = []
 
 
 async def fetch_text_map() -> Dict[str, str]:
@@ -41,7 +41,7 @@ async def parse_config_to_avatar(text_map_data: Dict[str, str], config: Dict[str
 
 
 async def fetch_avatars() -> List[Avatar]:
-    global all_weapons
+    global all_equipment_suits
     text_map_data = await fetch_text_map()
     data = await get_base_data(avatar_config)
     tasks = [parse_config_to_avatar(text_map_data, i) for i in data["GMNCBMLIHPE"]]
@@ -51,7 +51,7 @@ async def fetch_avatars() -> List[Avatar]:
 
 
 async def dump_avatars():
-    data = [avatar.dict() for avatar in all_weapons]
+    data = [avatar.dict() for avatar in all_equipment_suits]
     data.sort(key=lambda x: x["id"])
     async with aiofiles.open(avatars_path, "w", encoding="utf-8") as f:
         await f.write(ujson.dumps(data, indent=4, ensure_ascii=False))
