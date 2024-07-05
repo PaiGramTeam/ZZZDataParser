@@ -4,6 +4,7 @@ from typing import List
 
 from bs4 import BeautifulSoup
 
+from models.enums import ZZZRank
 from src.client import client
 from .url import characters_url
 from ..raw_data.avatar import all_avatars_en_map, dump_avatars
@@ -15,10 +16,21 @@ class Avatar:
     link: str
     first_image: str
     banner_image: str
+    rank: ZZZRank
 
 
 async def get_characters_html() -> str:
     return await client.get(characters_url)
+
+
+def parse_rank(class_list: List[str]) -> ZZZRank:
+    if "s" in class_list:
+        return ZZZRank.S
+    if "a" in class_list:
+        return ZZZRank.A
+    if "b" in class_list:
+        return ZZZRank.B
+    return ZZZRank.NULL
 
 
 def get_all_characters_links(html: str) -> List[Avatar]:
@@ -33,12 +45,15 @@ def get_all_characters_links(html: str) -> List[Avatar]:
         link = div.find("a", {"class": "gb-container-link"}).get("href")
         image = div.find_all("img")
         first_image = image[-1].get("src")
+        class_list = div.get("class")
+        rank = parse_rank(class_list)
         data.append(
             Avatar(
                 name=name,
                 link=link,
                 first_image=first_image,
                 banner_image="",
+                rank=rank,
             )
         )
     return data
@@ -55,6 +70,7 @@ async def get_character_banner_image(avatar: Avatar) -> None:
 def apply_image_to_avatar(avatars: List[Avatar]):
     for avatar in avatars:
         if ava := all_avatars_en_map.get(avatar.name.lower()):
+            ava.rank = avatar.rank
             ava.icon = [avatar.first_image, "", avatar.banner_image]
 
 
@@ -65,6 +81,12 @@ def notice_none():
         if not (value.icon_ and value.gacha)
     ]:
         print(f"未获取到角色图片资源：{names}")
+    if names := [
+        value.name
+        for value in all_avatars_en_map.values()
+        if value.rank == ZZZRank.NULL
+    ]:
+        print(f"未获取到角色稀有度：{names}")
 
 
 async def main():

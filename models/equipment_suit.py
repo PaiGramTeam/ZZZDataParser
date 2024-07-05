@@ -1,7 +1,6 @@
-# 遗器套装
-from typing import List
-
 from pydantic import BaseModel
+
+from .enums import ZZZRank
 
 
 class EquipmentSuit(BaseModel):
@@ -19,3 +18,5 @@ class EquipmentSuit(BaseModel):
     """4套描述"""
     story: str
     """套装故事"""
+    rank: ZZZRank = ZZZRank.NULL
+    """ 星级 """

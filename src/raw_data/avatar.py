@@ -26,7 +26,6 @@ async def parse_config_to_avatar(
     name_en = text_map_data[config["LAFKHMCKNIO"]]
     name_full = text_map_data[config["NHCHCCIAPIL"]]
     name_short = config["KPAMJPAHELG"]
-    rank = 0
     element = config["KDGGNBOFDOE"][0]
     speciality = config["FCDEDAOHMIO"]
     return Avatar(
@@ -35,7 +34,6 @@ async def parse_config_to_avatar(
         name_en=name_en,
         name_full=name_full,
         name_short=name_short,
-        rank=rank,
         element=element,
         speciality=speciality,
     )

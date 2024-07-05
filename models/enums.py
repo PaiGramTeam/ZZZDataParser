@@ -41,8 +41,9 @@ class ZZZRank(str, Enum):
     B = "B"
     C = "C"
     D = "D"
+    NULL = "NULL"
 
     @property
     def int(self):
-        value_map = {"S": 5, "A": 4, "B": 3, "C": 2, "D": 1}
+        value_map = {"S": 5, "A": 4, "B": 3, "C": 2, "D": 1, "NULL": 0}
         return value_map[self.value]

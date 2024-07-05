@@ -2,7 +2,7 @@ from typing import List
 
 from pydantic import BaseModel
 
-from .enums import ZZZElementType, ZZZSpeciality
+from .enums import ZZZElementType, ZZZSpeciality, ZZZRank
 
 
 class Avatar(BaseModel, frozen=False):
@@ -16,7 +16,7 @@ class Avatar(BaseModel, frozen=False):
     """ 中文全称 """
     name_short: str
     """ 英文简称 """
-    rank: int
+    rank: ZZZRank = ZZZRank.NULL
     """ 星级 """
     element: ZZZElementType
     """ 元素 """

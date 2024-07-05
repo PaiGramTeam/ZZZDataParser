@@ -1,5 +1,7 @@
 from pydantic import BaseModel
 
+from .enums import ZZZRank
+
 
 class Buddy(BaseModel):
     id: int
@@ -10,3 +12,5 @@ class Buddy(BaseModel):
     """英文名称"""
     icon: str = ""
     """图标"""
+    rank: ZZZRank = ZZZRank.NULL
+    """ 星级 """
