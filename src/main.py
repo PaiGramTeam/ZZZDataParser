@@ -6,6 +6,7 @@ from .zenlessdiary.avatar import main as main_avatar_src
 from .zenlessdiary.weapon import main as main_weapon_src
 from .zenlessdiary.equipment_suit import main as main_equipment_suit_src
 from .zenlessdiary.buddy import main as main_buddy_src
+from .prydwen.avatar import main as main_avatar_src_normal
 
 
 async def main():
@@ -19,6 +20,8 @@ async def main():
     await main_buddy()
     print("获取角色资源数据")
     await main_avatar_src()
+    print("获取角色 normal 资源数据")
+    await main_avatar_src_normal()
     print("获取武器资源数据")
     await main_weapon_src()
     print("获取驱动盘资源数据")

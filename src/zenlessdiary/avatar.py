@@ -24,11 +24,11 @@ async def get_characters_html() -> str:
 
 
 def parse_rank(class_list: List[str]) -> ZZZRank:
-    if "s" in class_list:
+    if "s" in class_list or "S" in class_list:
         return ZZZRank.S
-    if "a" in class_list:
+    if "a" in class_list or "A" in class_list:
         return ZZZRank.A
-    if "b" in class_list:
+    if "b" in class_list or "B" in class_list:
         return ZZZRank.B
     return ZZZRank.NULL
 
