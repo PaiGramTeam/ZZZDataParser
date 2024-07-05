@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: 3.10
+          python-version: "3.10"
 
       - name: Install Dependencies
         run: |
@@ -25,7 +25,6 @@ jobs:
       - name: Fetch Remote Files
         run: |
           python main.py
-          python fix_data.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
