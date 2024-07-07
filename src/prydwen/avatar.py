@@ -20,9 +20,9 @@ def get_all_characters_links(html: str) -> Dict[str, str]:
         if not div.text.strip():
             continue
         name = div.find("span", {"class": "emp-name"}).text.strip()
-        picture = div.find_all("picture")
-        img = picture[0].find("img")
-        link = base_data_url / img.get("data-src")
+        images = div.find_all("img")
+        url = next((img.get("data-src") for img in images if img.get("data-src")), None)
+        link = base_data_url / url
         data[name] = str(link)
     return data
 

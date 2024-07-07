@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 
-from models.enums import ZZZRank
+from .enums import ZZZRank
 
 
 class Weapon(BaseModel):
