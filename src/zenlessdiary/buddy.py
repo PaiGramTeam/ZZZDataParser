@@ -14,8 +14,10 @@ async def get_buddy_html() -> str:
 def apply_image_to_buddy(buddy_list: Dict[str, Buddy]):
     for name, buddy in buddy_list.items():
         if ava := all_buddy_en_map.get(name.lower()):
-            ava.icon = buddy.image
-            ava.rank = buddy.rank
+            if not ava.icon:
+                ava.icon = buddy.image
+            if (not ava.rank) or ava.rank == ZZZRank.NULL:
+                ava.rank = buddy.rank
 
 
 def notice_none():
