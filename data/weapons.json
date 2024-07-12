@@ -1,0 +1,362 @@
+[
+    {
+        "id": 12001,
+        "name": "「月相」-望",
+        "name_en": "[Lunar] Pleniluna",
+        "description": "专注调整输出能力、因此忽视降噪处理的音擎，能够对周围的单位造成无差别伤害。设计者对此的辩解是：当月光过分明亮，失眠者也会难受、无计可施；那月光也不是故意的，习惯就好。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Lunar-Pleniluna.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12002,
+        "name": "「月相」-晦",
+        "name_en": "[Lunar] Decrescent",
+        "description": "在声能与热能运用上都有不俗表现的音擎，能够赋予受击者双重伤害。受此音擎攻击或误击的对象有一定概率被确诊为雪盲症，原因目前未知；一位可怜的空洞调查员因此未能从保险公司索赔成功。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Lunar-Decrescent.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12003,
+        "name": "「月相」-朔",
+        "name_en": "[Lunar] Noviluna",
+        "description": "便携式大容量能源音擎，能收集周围耗散的能量，进而有效提升装备者的持续作战效果。据说，此款音擎是「低电量恐惧症」患者进入空洞时的首选。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Lunar-Noviluna.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12004,
+        "name": "「残响」-Ⅰ型",
+        "name_en": "[Reverb] Mark I",
+        "description": "内置有声波发生器的特制音擎，可将收集到的能量转化为高穿透性次声波，增强作战时的破坏力。不过该音擎的特殊功能需要提前蓄能才可激活。而蓄能的第一步，即是挥霍掉现有能量。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Reverb-Mark-I.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12005,
+        "name": "「残响」-Ⅱ型",
+        "name_en": "[Reverb] Mark II",
+        "description": "性能均衡的制式音擎，虽然没有特殊战术倾向，却能够有效且全面地提升装备者及其队友的作战能力。对于不少初入行、没有特殊作战需求的新兵而言，此款音擎是他们青睐的最佳单品。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Reverb-Mark-II.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12006,
+        "name": "「残响」-Ⅲ型",
+        "name_en": "[Reverb] Mark III",
+        "description": "内置了动作捕捉算法的特型音擎，能够监测成员的战斗状态，发出有节奏的信号协调各个成员的战术动作，从而整体增强小队的战斗能力。当然，前提是所有人都能跟上它发出的拍子，而不是踩掉其他成员的鞋子…",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Reverb-Mark-III.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12007,
+        "name": "「湍流」-铳型",
+        "name_en": "[Vortex] Revolver",
+        "description": "拥有特殊运算电路的蓄能型音擎，可收集逸散的能量，并在积蓄到一定程度后瞬间释放，达到额外的冲击效果。虽然无法控制什么时候释放能量，但当它生效时，总能给装备者带来抽奖中签般的快乐。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Vortex-Revolver.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12008,
+        "name": "「湍流」-矢型",
+        "name_en": "[Vortex] Arrow",
+        "description": "利用高频声波进行定位的战术音擎，在其定位敌人后，可通过辅助瞄准让装备者的精准攻击更具威胁。虽然本意是减轻战斗负担，但高频声波有时候也会把远处好奇的以骸吸引过来。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Vortex-Arrow.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12009,
+        "name": "「湍流」-斧型",
+        "name_en": "[Vortex] Hatchet",
+        "description": "可在瞬间爆发出超额功率的变频音擎，能有效提升装备者的战斗破坏力，但因为散热问题，该款音擎在使用中经常发出吵闹的轰鸣声，使得整个小队成员不得不佩戴防噪音耳机。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Vortex-Hatchet.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12010,
+        "name": "「电磁暴」-壹式",
+        "name_en": "[Magnetic Storm] Alpha",
+        "description": "能通过实时计算，解析敌方弱点的特制音擎。虽然它钢质的沉重外壳会给装备者造成一定的负担，不过却意外地被当做锻炼体能、合理减肥的多用途器械，深受部分使用者好评。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Magnetic-Storm-Alpha.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12011,
+        "name": "「电磁暴」-贰式",
+        "name_en": "[Magnetic Storm] Bravo",
+        "description": "强化了动作检测功能的输出型音擎，能实时检测到使用者的作战状态，以便在关键的动作节点提高输出功率，达到最佳的作战效果。在动作结束后，该音擎会发出炫目的五彩闪光，并对本次动作的难度和完成度作出评分。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Magnetic-Storm-Charlie.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12012,
+        "name": "「电磁暴」-叁式",
+        "name_en": "[Magnetic Storm] Charlie",
+        "description": "大容量供能型音擎，内置有电流发生器，即使不用装备者额外操作，也可持续性储备电能。在战斗中装备此款音擎，有时可以出其不意地将麻烦的敌人一击击晕。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Magnetic-Storm-Bravo.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12013,
+        "name": "「恒等式」-本格",
+        "name_en": "[Identity] Base",
+        "description": "按照一定参数调整过组件结构的音擎，能为符合特定战斗习惯的使用者增强防御能力。如果使用者不符合此音擎的筛选条件，那么携带它的体验约等于肩扛巨大盾牌勉力作战。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/07\/Identity-Base.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12014,
+        "name": "「恒等式」-变格",
+        "name_en": "[Identity] Inflection",
+        "description": "专攻能源转换的功能性音擎，能够解析作战环境并据此形成特殊声景，以干扰敌方的攻势。对于意志坚定的敌人，即使能顺利奏效，也还需抓住攻击时机；好在绝大部分以骸其实都神志不清。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Identity-Inflection.webp",
+        "rank": "B"
+    },
+    {
+        "id": 13001,
+        "name": "街头巨星",
+        "name_en": "Street Superstar",
+        "description": "为街头音乐爱好者而生的定制款音擎，牺牲散热元件为昂贵的音响模块腾出空间，只为了让粉丝和以骸化的粉丝听清你的每一句唱词\n——从街头到空洞，巨星从不缺观众。我滚烫的腔调，是这场战争的佐料。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Street-Superstar.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13002,
+        "name": "时光切片",
+        "name_en": "Slice of Time",
+        "description": "搭载有高速取景模块的特型音擎，空洞内摄影爱好者的最佳选择，记录痛扁以骸的每一个感动时刻，只要你能腾出按快门的手。\nPS：内部光学元件未作抗侵蚀处理，不要弄丢保修单。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Slice-of-Time.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13003,
+        "name": "雨林饕客",
+        "name_en": "Rainforest Gourmet",
+        "description": "爬宠同好会为推广爬宠文化所推出的消费级音擎，曾收获一时的追捧，直到三名顾客的手指、一位店员和半只邦布消失在「饕客」的大嘴里。自「嘴部」产生的以太团块能够快速吞没物质，请勿将头部或肢体伸入其中。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Rainforest-Gourmet.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13004,
+        "name": "星徽引擎",
+        "name_en": "Starlight Engine",
+        "description": "采用了特殊以太材料的输出型音擎，在受到冲击时可以缓慢积蓄能量，迅速提高自身的输出功率。虽然带着它并不能变身星徽骑士，但装备者在面临绝境时，心底总会涌现莫名的勇气。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Starlight-Engine.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13005,
+        "name": "人为刀俎",
+        "name_en": "Steam Oven",
+        "description": "大功率变温型音擎，内置了新型的能量转换系统，能将额外产出的热量收集并供给蒸锅利用，轻松烹煮、快速加热。无论居家旅行、空洞内外皆可使用。当然…使用时请千万小心，以防烫伤。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Steam-Oven.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13006,
+        "name": "贵重骨核",
+        "name_en": "Precious Fossilized Core",
+        "description": "采用复合以太材料作为外壳的特制音擎，能在战斗中吸收冲击力，并转而对敌人施放。据说它的原型机由某位元老级空洞冒险家亲自制作而成，在转手了无数次之后依旧能够顺畅运行，和表面的古董化石一样，堪称音擎界的骨灰级前辈。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Precious-Fossilized-Cor.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13007,
+        "name": "正版变身器",
+        "name_en": "Original Transmorpher",
+        "description": "受到星徽骑士粉丝追捧的梦幻音擎，版权方声称，使用山寨变身器会变成反派杂鱼。且看好一记令恶徒魄散魂飞的飞踢，这就是正版授权的威力！\n「星徽骑士，变身！变！我变！变啊——！怎么没变呢？难道…星徽没有选中我！？」——语出狡兔屋匿名员工拍摄的开箱VLOG",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Original-Transmorpher.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13008,
+        "name": "双生泣星",
+        "name_en": "Weeping Gemini",
+        "description": "回收废弃的邦布外壳所制造的音擎，虽然使用的是维修时所废弃的部件，但还是难免让喜爱邦布的市民感到不安。「本球制作过程中没有邦布受到伤害」——在受到邦布权利组织的抗议后，生厂商不得不在包装盒上加上这条声明。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Weeping-Gemini.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13009,
+        "name": "触电唇彩",
+        "name_en": "Electro-Lip Gloss",
+        "description": "内置有大功率电流变压器的输出型音擎。其突出的唇彩部位即是放电装置，能自动吸引装备者周围的感电物体，并对其造成额外的伤害——这不是什么爱情的魔力，而是1000伏高压电场产生的洛伦兹力。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Electro-Lip-Gloss.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13010,
+        "name": "兔能环",
+        "name_en": "Bunny Band",
+        "description": "装饰有毛绒兔子的特型音擎。虽然这些「兔子」只是被制作出来的拟真玩偶，但即使是最凶残的盗洞客，在休息时摸摸兔子，也能明显缓解压力，增强自身的战斗表现。该系列音擎有许多类似款式：便携兔子、折叠兔子、无毛兔子…总有一款会让你无法拒绝。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Bunny-Band.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13011,
+        "name": "春日融融",
+        "name_en": "Spring Embrace",
+        "description": "加装有变温调控器的特制音擎，高频率运作时排出的余热，会被集中到球体表面的「热泉」之中。在冻得瑟瑟发抖的敌人面前，音擎持有者可以喝着「热泉汤」，感受春日融融。当然，有人会觉得这像是在喝洗澡水。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Spring-Embrace.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13101,
+        "name": "德玛拉电池Ⅱ型",
+        "name_en": "Demara Battery Mark II",
+        "description": "重视储能效率，在蓄电功能上做了特化处理的定制款音擎核心，能有效增强武器电能输出的功率，是玩具店老板的杰作。不久后，安比根据使用习惯又对它进行了些许调整，但从她每次保养时都异常严肃小心的举动来看，估计不是什么安全的调整方法。\n\n<color=#959595>「武器就应该是危险的。如果它都不能电倒我，那就更不能电倒敌人了。」——安比，小心翼翼保养时的回答<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Demara-Battery-Mark-II.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13103,
+        "name": "聚宝箱",
+        "name_en": "The Vault",
+        "description": "高性价比的储能型音擎，在被妮可改造了内部空间后，平时也可当做储物箱使用。虽然里面的金币都是假货，但偶尔可以唬住贪心的盗洞客；或是更干脆一点——直接丢出去砸晕他们。\n\n<color=#959595>「很痛吧？厉害吧？哼哼，这就叫金钱的力量！」——妮可，击倒敌人后的炫耀<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/The-Vault.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13106,
+        "name": "家政员",
+        "name_en": "Housekeeper",
+        "description": "高转速的动力增强型音擎，可琳将其轴心部分与链锯进行了一体化改造，为自己的「清扫用具」提供切割动力。而为了保证「清扫」顺利，不给对方增加额外的麻烦和痛苦，善解人意的可琳还贴心地将转速调整到了极限功率。\n\n<color=#959595>「那个…请放心，不会痛的！嗯…应该说只会痛一下下，然后就再也不痛了！」——可琳，在进攻前尝试安抚对手<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Housekeeper.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13108,
+        "name": "仿制星徽引擎",
+        "name_en": "Starlight Engine Replica",
+        "description": "专精于辅助瞄准与弹道计算的定制款超算音擎，在被比利改装后，更像是某种盗版的星徽骑士手办。它在侦测到敌人时会不断闪动光芒，并且大声喊出设定好的台词。虽然此举无异于自曝位置吸引敌人注意力，但对比利来说，只要够帅，一切都不是问题。\n\n<color=#959595>「仿制？怎么能说仿制呢？这里面可是倾注了我全部的热情、智慧、灵感和冷凝水！除了不能呼唤流星出来让我变身，它就是真正的星徽骑士装备！」——比利，激动地陈述自己的改装理念<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Starlight-Engine-Replica.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13111,
+        "name": "旋钻机-赤轴",
+        "name_en": "Drill Rig - Red Axis",
+        "description": "原本为转速增强型音擎，安东选用了最昂贵的旋钻机配件对其进行一体化改装，使其输出功率可以在短时间内超越极限，更好地为自己的「兄弟」供能。在对待「兄弟」的相关配件上，安东不从吝啬。\n\n<color=#959595>「材料是本亲自采购的，改装技术是格莉丝支持的，威力是社长验证过的…兄弟，白祇重工的祝福都集中在你身上了，一起加油吧！」——安东，初次启动时的自言自语<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Drill-Rig-Red-Axis.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13112,
+        "name": "比格气缸",
+        "name_en": "Big Cylinder",
+        "description": "超大功率的援护型音擎，本在其内部额外加装了不断低声轰鸣着的稠油气缸，其功率足以为重工机械提供动力。虽然重量惊人，常人甚至无法将其拎起来，但对于本来说，这正好能给他的砼柱当做配重球。\n\n<color=#959595>「放心吧，配重位置和抗冲击系数我都精确到小数点后四位计算过了，不会影响武器性能的。」——本，说完这句话后他又掏出小本本验算了一遍<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Big-Cylinder.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13113,
+        "name": "含羞恶面",
+        "name_en": "Bashful Demon",
+        "description": "对空六课研制的精巧音擎，进行过以武家传承为技术依据的再次改装，可以调动以太粒子形成能量场。其造型恐怖可止小儿夜啼！如果不幸被它狰狞的恶面凝视，那么，等它张开獠牙，你将会面对…别笑啊！这个可怜巴巴的小东西打人真的很痛！\n\n<color=#959595>「唔…比起厉害的鬼面，我更想再带个便当盒…我去问问柳姐可不可以在里面装干粮！」——苍角，兴冲冲地奔向对空六课的办公室<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Bashful-Demon.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13115,
+        "name": "好斗的阿炮",
+        "name_en": "Kaboom the Cannon",
+        "description": "以喷气形式推进、机动性与冲击力兼备的支援型音擎，能够跑遍全场提供战斗增益。不仅是实用的好音擎，还是阿草、阿木和阿砖的最大假想敌和最害怕的陪练对象。\n\n<color=#959595>「做不到的话，就和阿炮一起去拉练！」——露西，对三位忠实小野猪亲卫训话<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/07\/Kaboom-the-Cannon.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13128,
+        "name": "轰鸣座驾",
+        "name_en": "Roaring Ride",
+        "description": "用卡车发动机零件改装而成的能量型音擎，原装气缸改造为储能单元后更显优势。此物在「猪突猛进」内部竞速中排名第一，力压各台重型机车和派派本人亲自驾驶的卡车。\n\n<color=#959595>「可惜没有任何载货方式…要不，挂獠牙上？」——派派·优秀物流运输司机·韦尔评价道<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/07\/Roaring-Ride.webp",
+        "rank": "A"
+    },
+    {
+        "id": 14001,
+        "name": "加农转子",
+        "name_en": "Cannon Rotor",
+        "description": "能实时采集战场数据、为装备者提供战术支持的高性能超算音擎。自身加装有支援型迷你重炮。在危机时刻，它甚至可以丢出去充当小型自动战斗单位。此刻，装备者本身反倒更像是拖累。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Cannon-Rotor.webp",
+        "rank": "A"
+    },
+    {
+        "id": 14002,
+        "name": "逍遥游球",
+        "name_en": "Unfettered Game Ball",
+        "description": "加装有新款集成芯片的超算音擎，可动态监测战场环境，为装备者提供战术分析。同时该音擎与流行掌机进行了一体化设计，可让装备者随时随地玩到当下最流行的游戏。不过极不推荐将游戏声音外放…尤其是在以骸频繁出没的空洞区域。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Unfettered-Game-Ball.webp",
+        "rank": "A"
+    },
+    {
+        "id": 14003,
+        "name": "左轮转子",
+        "name_en": "Six Shooter",
+        "description": "仿造左轮外形制作的特型音擎，号称可装填六枚子弹形的浓缩以太电池，可以随时击发并提供强力的输出功率。据说，只要把这个音擎带在身上，持有者就会无师自通地学会吹口哨，并会时不时模仿旧电影，摆出一副牛仔的腔调。",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Six-Shooter.webp",
+        "rank": "A"
+    },
+    {
+        "id": 14102,
+        "name": "钢铁肉垫",
+        "name_en": "Steel Cushion",
+        "description": "增强了动作监测功能的超算音擎，能够完美配合猫希人的神经反射速度和特殊格斗动作。猫又在其外壳上加装了折叠式弹簧刀，虽然自称是便于战斗，但上面似乎残留着切割青花鱼时沾染的味道…\n\n<color=#959595>「虽然很多人说这改装只是小聪明，但混迹街头本来就要利用一切可利用的东西：小聪明、小心思、小把戏和…看！小猫咪！」——猫又，一边转移注意力一边偷偷把手伸向听众的钱包<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Steel-Cushion.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14104,
+        "name": "硫磺石",
+        "name_en": "The Brimstone",
+        "description": "黑曜石营特制的暴力音擎，装载淬火部件并填充经以太技术二次转化的禁用级燃料，可凭高温打扫一切战场。小道消息称，设计者在和「11号」交流音擎制作思路时与其共进晚餐，一小时后决心把品尝超辣拉面时感受到的痛觉报复在每一个敌人身上。\n\n<color=#959595>「我很喜欢它，稳定、高效、实用，高温能将战斗时残留在刀刃上的痕迹烧净，必备时刻也能为伤口消毒…你为什么要坐那么远？」——「11号」，在向队友介绍自己的音擎<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/The-Brimstone.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14110,
+        "name": "燃狱齿轮",
+        "name_en": "Hellfire Gears",
+        "description": "超大功率的功能音擎，经过珂蕾妲的改装，其能效水平几乎超越了安全上限。虽然整个音擎的全部功率都用于输出，以至于加速和爆燃两个功能只能合并到同一个档位，但对珂蕾妲来说，这正是她想要的效果。\n\n<color=#959595>「我现在可是能轻轻松松就敲到你的胫骨噢？所以『有点矮啊』之类的话你最好想清楚了再说噢？」——珂蕾妲，对出言不逊的合作商放狠话<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Hellfire-Gears.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14114,
+        "name": "拘缚者",
+        "name_en": "The Restrained",
+        "description": "内含大功率变温装置的特型音擎，能够迅速制造极端低温环境。其散热器的开口部分被设计成了奇怪的兽齿，并经常滴落冷凝水。而经过莱卡恩的一系列改造，如今开口处被用于存放信封和其他信物，粗野的外观也逐渐变得克制而优雅。\n\n<color=#959595>「礼仪修养不是野性的拘束带，而是释放野性前的调味料。」——莱卡恩，某次茶话会时温和的笑谈<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/The-Restrained.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14118,
+        "name": "嵌合编译器",
+        "name_en": "Fusion Compiler",
+        "description": "嵌合了超算核心的最新款音擎，能够以顶尖的运行速度编译机械的运行代码，或快速收集战场数据，为小队提供作战支援。当然，对于格莉丝来说，这款音擎只是她和「硅基孩子们」之间沟通感情用的小玩具。\n\n<color=#959595>「仔细一看…你自己就长得眉清目秀的很有特点嘛~！哎呀，虽然说明书上提示过密封后不能拆开…唔嗯嗯嗯——！不试试看怎么知道呢？！」——格莉丝，盯着手里的音擎突然陷入狂热<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Fusion-Compiler.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14119,
+        "name": "深海访客",
+        "name_en": "Deep Sea Visitor",
+        "description": "特制的大功率变温型音擎，能利用自身的降温功能快速冻结周围的物体；虽然它兼具极强的制冷能力与输出功率，是一款性能绝佳的战术音擎，不过对于艾莲来说，它最主要的用途是往开口处放入冰块，削成刨冰。\n\n<color=#959595>「我想把它带去学校用。尤其是夏天。但是莱卡恩和丽娜不允许…真麻烦。」——艾莲，一边吃冰一边摇头<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Deep-Sea-Visitor.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14121,
+        "name": "啜泣摇篮",
+        "name_en": "Weeping Cradle",
+        "description": "特制的多夹层嵌套式音擎，其内含有特殊的以太充电层，可为特型邦布和定制作战设备快速充电。虽然该音擎从外表上看起来像是个残酷的惩戒室，但丽娜的邦布们似乎相当喜欢钻进里面充电，甚至把「缩在里面休息」当做了舒适的「奖励」。\n\n<color=#959595>「嘘…两个小家伙在休息，要是突然醒了一定会很调皮。喝茶时建议不要发出声音噢~」——丽娜，用茶点招待朋友时的温馨提示<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Weeping-Cradle.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14124,
+        "name": "防暴者Ⅵ型",
+        "name_en": "Riot Suppressor Mark VI",
+        "description": "治安局为空洞精英小队配备的最新款战术音擎，拥有强劲的以太供能功率，可在短时间内为全部作战设备提供爆发式超额供能。虽然不少精英队员的音擎会因为久经阵仗而伤痕累累，但认真且爱惜物品的朱鸢却把它保养得一丝不苟，甚至将其擦拭得像新品一样。\n\n<color=#959595>「无纺布、毛刷、润滑油、除锈剂…好，准备完成。计时…开始！」——朱鸢，开始保养时为自己计时，挑战比上一次更短的保养时间<\/color>",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Riot-Suppressor-Mark-VI.webp",
+        "rank": "S"
+    }
+]
