@@ -62,9 +62,15 @@ def get_all_characters_links(html: str) -> List[Avatar]:
 async def get_character_banner_image(avatar: Avatar) -> None:
     html = await client.get(avatar.link)
     soup = BeautifulSoup(html.text, "lxml")
-    c = soup.find("div", {"class": "hero-container"})
-    if img := c.find("img", {"class": "gb-image-488c90b0"}):
+    d = soup.find("div", {"class": "entry-content"})
+    c = list(d.children)[1]
+    classes = ["gb-image-e6ca362d", "gb-image-488c90b0"]
+    e = [c.find("img", {"class": i}) for i in classes]
+    for img in e:
+        if not img:
+            continue
         avatar.banner_image = img.get("src")
+        break
 
 
 def apply_image_to_avatar(avatars: List[Avatar]):
