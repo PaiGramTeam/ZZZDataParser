@@ -7,7 +7,7 @@ from models.enums import ZZZRank
 from src.client import client
 from .avatar import parse_rank
 from .url import weapons_url
-from ..raw_data.weapon import all_weapons_en_map, dump_weapons
+from ..hakush.weapon import all_weapons_en_map, dump_weapons
 
 
 @dataclasses.dataclass

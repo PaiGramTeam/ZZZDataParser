@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from models.enums import ZZZRank
 from src.client import client
 from .url import characters_url
-from ..raw_data.avatar import all_avatars_en_map, dump_avatars
+from ..hakush.avatar import all_avatars_en_map, dump_avatars
 
 
 @dataclasses.dataclass
@@ -64,7 +64,7 @@ async def get_character_banner_image(avatar: Avatar) -> None:
     soup = BeautifulSoup(html.text, "lxml")
     d = soup.find("div", {"class": "entry-content"})
     c = list(d.children)[1]
-    classes = ["gb-image-e6ca362d", "gb-image-488c90b0"]
+    classes = ["gb-image-0bcb95cf", "gb-image-e6ca362d"]
     e = [c.find("img", {"class": i}) for i in classes]
     for img in e:
         if not img:

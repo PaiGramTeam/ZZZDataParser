@@ -4,7 +4,7 @@ from models.enums import ZZZRank
 from src.client import client
 from .url import buddy_url
 from .weapon import get_all_weapons_links, Weapon as Buddy
-from ..raw_data.buddy import all_buddy_en_map, dump_buddy
+from ..hakush.buddy import all_buddy_en_map, dump_buddy
 
 
 async def get_buddy_html() -> str:

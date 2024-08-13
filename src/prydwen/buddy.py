@@ -6,7 +6,7 @@ from models.enums import ZZZRank
 from src.client import client
 from src.prydwen.url import base_data_url, buddy_url
 from src.zenlessdiary.weapon import Weapon as Buddy
-from src.raw_data.buddy import all_buddy_en_map, dump_buddy
+from src.hakush.buddy import all_buddy_en_map, dump_buddy
 
 
 async def get_buddies_html() -> str:

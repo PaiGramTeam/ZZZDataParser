@@ -4,7 +4,7 @@ from models.enums import ZZZRank
 from src.client import client
 from .url import equipment_suit_url
 from .weapon import get_all_weapons_links, Weapon as EquipmentSuit
-from ..raw_data.equipment_suit import all_equipment_suits_en_map, dump_equipment_suits
+from ..hakush.equipment_suit import all_equipment_suits_en_map, dump_equipment_suits
 
 
 async def get_equipment_suit_html() -> str:
