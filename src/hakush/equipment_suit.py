@@ -21,7 +21,7 @@ async def parse_config_to_weapon(
     sid = int(_sid)
     chs = config["CHS"]
     name = chs["name"]
-    name_en = config["EN"]["name"]
+    name_en = config.get("EN", {}).get("name", "")
     desc_2 = chs["desc2"]
     desc_4 = chs["desc4"]
     story = ""
