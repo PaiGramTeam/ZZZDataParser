@@ -2,6 +2,7 @@ from .hakush.avatar import main as main_avatar
 from .hakush.weapon import main as main_weapon
 from .hakush.equipment_suit import main as main_equipment_suit
 from .hakush.buddy import main as main_buddy
+from .official.data import main as main_official_data
 from .zenlessdiary.avatar import main as main_avatar_src
 from .zenlessdiary.weapon import main as main_weapon_src
 from .zenlessdiary.equipment_suit import main as main_equipment_suit_src
@@ -20,6 +21,8 @@ async def main():
     print("获取邦布数据")
     await main_buddy()
     print("获取角色资源数据")
+    await main_official_data()
+    print("获取角色 square 资源数据")
     await main_avatar_src()
     print("获取角色 normal 资源数据")
     await main_avatar_src_normal()

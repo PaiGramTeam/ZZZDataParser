@@ -33,7 +33,8 @@ async def fetch_buddy() -> List[Buddy]:
     data = await get_base_data(buddy_config)
     tasks = [parse_config_to_buddy(k, i) for k, i in data.items()]
     datas: List[Buddy] = await asyncio.gather(*tasks)
-    all_buddy = datas
+    all_buddy.clear()
+    all_buddy.extend(datas)
 
     all_buddy_en_map.clear()
     for buddy in datas:

@@ -43,7 +43,8 @@ async def fetch_avatars() -> List[Avatar]:
     data = await get_base_data(avatar_config)
     tasks = [parse_config_to_avatar(k, i) for k, i in data.items()]
     datas: List[Avatar] = await asyncio.gather(*tasks)
-    all_avatars = datas
+    all_avatars.clear()
+    all_avatars.extend(datas)
 
     all_avatars_en_map.clear()
     for avatar in all_avatars:

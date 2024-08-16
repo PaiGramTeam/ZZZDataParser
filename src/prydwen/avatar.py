@@ -30,7 +30,7 @@ def get_all_characters_links(html: str) -> Dict[str, str]:
 def apply_image_to_avatar(avatars: Dict[str, str]):
     for name, link in avatars.items():
         if ava := all_avatars_en_map.get(name.lower()):
-            ava.icon[1] = link
+            ava.icon[2] = link
 
 
 def notice_none():
