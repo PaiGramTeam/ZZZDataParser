@@ -13,6 +13,9 @@ from src.hakush.url import avatar_config
 
 all_avatars: List[Avatar] = []
 all_avatars_en_map: Dict[str, Avatar] = {}
+all_extra_avatars_map: Dict[str, List[str]] = {
+    "jane": ["jane doe"],
+}
 
 
 async def parse_config_to_avatar(_aid: str, config: Dict[str, str]) -> Avatar:
@@ -48,7 +51,11 @@ async def fetch_avatars() -> List[Avatar]:
 
     all_avatars_en_map.clear()
     for avatar in all_avatars:
-        all_avatars_en_map[avatar.name_en.lower()] = avatar
+        name_en = avatar.name_en.lower()
+        all_avatars_en_map[name_en] = avatar
+        if name_en in all_extra_avatars_map:
+            for name in all_extra_avatars_map[name_en]:
+                all_avatars_en_map[name.lower()] = avatar
 
     return all_avatars
 
