@@ -1,0 +1,186 @@
+[
+    {
+        "id": 53001,
+        "name": "企鹅布",
+        "name_en": "Penguinboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/cfb26b42f5bbdfeebe6a319e04fe06ec\/b26e2\/13_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53001.png",
+        "rank": "A"
+    },
+    {
+        "id": 53002,
+        "name": "招财布",
+        "name_en": "Luckyboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/1ed0c055cbb6520f47e0fab6d805aa46\/c9885\/4_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53002.png",
+        "rank": "A"
+    },
+    {
+        "id": 53003,
+        "name": "寻宝布",
+        "name_en": "Exploreboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/8e405a6b4bd94e9035e4310cb2b2ed61\/c9885\/3_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53003.png",
+        "rank": "A"
+    },
+    {
+        "id": 53004,
+        "name": "扑击布",
+        "name_en": "Sumoboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/5018fc877f93d6a23f6abc32db3bfe22\/c9885\/2_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53004.png",
+        "rank": "A"
+    },
+    {
+        "id": 53005,
+        "name": "纸壳布",
+        "name_en": "Paperboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/13665f02285b6e25ce25a0cd432e086c\/c9885\/6_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53005.png",
+        "rank": "A"
+    },
+    {
+        "id": 53006,
+        "name": "纸袋布",
+        "name_en": "Bagboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/636b378c81480394afc2f3dd651b7051\/c9885\/1_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53006.png",
+        "rank": "A"
+    },
+    {
+        "id": 53007,
+        "name": "泪眼布",
+        "name_en": "Cryboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/26e5f598a538af5d64744bfa8f18effb\/b26e2\/15_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53007.png",
+        "rank": "A"
+    },
+    {
+        "id": 53008,
+        "name": "果核布",
+        "name_en": "Avocaboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/50f22e0fe1584a86bce3fff309b60d91\/b26e2\/16_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53008.png",
+        "rank": "A"
+    },
+    {
+        "id": 53009,
+        "name": "飞靶布",
+        "name_en": "Boollseye",
+        "icon": "https:\/\/www.prydwen.gg\/static\/8681f896f571e9081e962862b4ddf8ad\/b26e2\/18_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53009.png",
+        "rank": "A"
+    },
+    {
+        "id": 53010,
+        "name": "电击布",
+        "name_en": "Electroboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/6c27a25769e072d157b35d969c654f87\/b26e2\/14_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53010.png",
+        "rank": "A"
+    },
+    {
+        "id": 53011,
+        "name": "磁力布",
+        "name_en": "Magnetiboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/a8517d8cb077c7b1e81fe6cc621a7237\/b26e2\/22_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53011.png",
+        "rank": "A"
+    },
+    {
+        "id": 53012,
+        "name": "气压布",
+        "name_en": "Booressure",
+        "icon": "https:\/\/www.prydwen.gg\/static\/f825f0c8ccb82777053dc22d195253e3\/b26e2\/17_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_53012.png",
+        "rank": "A"
+    },
+    {
+        "id": 54001,
+        "name": "鲨牙布",
+        "name_en": "Sharkboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/c0d5ca2737a3d7ac13af5d2490214838\/c9885\/10_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54001.png",
+        "rank": "S"
+    },
+    {
+        "id": 54002,
+        "name": "阿全",
+        "name_en": "Safety",
+        "icon": "https:\/\/www.prydwen.gg\/static\/8834a1f98bc04305e928f7757af3c449\/c9885\/9_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54002.png",
+        "rank": "S"
+    },
+    {
+        "id": 54003,
+        "name": "恶魔布",
+        "name_en": "Devilboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/199e99b5c4ab687f2e7ead1ca438c95d\/c9885\/5_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54003.png",
+        "rank": "A"
+    },
+    {
+        "id": 54004,
+        "name": "巴特勒",
+        "name_en": "Butler",
+        "icon": "https:\/\/www.prydwen.gg\/static\/b74369f09713127dd0d985bd240ff292\/c9885\/8_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54004.png",
+        "rank": "S"
+    },
+    {
+        "id": 54005,
+        "name": "艾米莉安",
+        "name_en": "Amillion",
+        "icon": "https:\/\/www.prydwen.gg\/static\/ab8fdf1564fffa985e2c493ad0e58f97\/c9885\/7_card.png",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54005.png",
+        "rank": "S"
+    },
+    {
+        "id": 54006,
+        "name": "飚速布",
+        "name_en": "Rocketboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/f3762e42e408866c5c7f9b47fbc5d327\/b26e2\/12_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54006.png",
+        "rank": "S"
+    },
+    {
+        "id": 54008,
+        "name": "插头布",
+        "name_en": "Plugboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/c7b8c2738b6a0976d32cb814f81c47ab\/b26e2\/19_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54008.png",
+        "rank": "S"
+    },
+    {
+        "id": 54009,
+        "name": "共鸣布",
+        "name_en": "Resonaboo",
+        "icon": "https:\/\/www.prydwen.gg\/static\/37536730596b16bd48050725f5d7dd56\/b26e2\/20_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54009.png",
+        "rank": "S"
+    },
+    {
+        "id": 54011,
+        "name": "赤红莫库斯",
+        "name_en": "Red Moccus",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/09\/Red-Moccus.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/nap\/bangboo_square_avatar\/bangboo_square_avatar_54011.png",
+        "rank": "S"
+    },
+    {
+        "id": 54012,
+        "name": "阿崔巡查",
+        "name_en": "Officer Cui",
+        "icon": "https:\/\/www.prydwen.gg\/static\/f2386e449454d14250dbd703048ea3be\/b26e2\/23_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/nap\/bangboo_rectangle_avatar\/bangboo_rectangle_avatar_54012.png",
+        "rank": "S"
+    },
+    {
+        "id": 54013,
+        "name": "左轮布",
+        "name_en": "Bangvolver",
+        "icon": "https:\/\/www.prydwen.gg\/static\/488fede1529fbb2f50d5165596c34aed\/b26e2\/22_card.webp",
+        "square": "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzz\/bangboo_square_avatar\/bangboo_square_avatar_54013.png",
+        "rank": "S"
+    }
+]
