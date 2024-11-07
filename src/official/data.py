@@ -1,21 +1,15 @@
 from typing import Dict
 
-from .url import json_url
-from ..client import client
+from .url import get_square_avatar_url, get_vertical_painting_url
 
 from ..hakush.avatar import all_avatars, dump_avatars
 from ..hakush.buddy import all_buddy, dump_buddy
 
 
-async def get_i18n_data() -> Dict[str, str]:
-    return (await client.get(json_url)).json()
-
-
-def apply_to_avatars(data: Dict[str, str]):
+def apply_to_avatars():
     for avatar in all_avatars:
-        key = f"role_square_avatar_{avatar.id}"
-        if value := data.get(key):
-            avatar.icon[1] = value
+        avatar.icon[0] = str(get_vertical_painting_url(avatar.id))
+        avatar.icon[1] = str(get_square_avatar_url(avatar.id))
 
 
 def apply_to_buddy(data: Dict[str, str]):
@@ -26,8 +20,7 @@ def apply_to_buddy(data: Dict[str, str]):
 
 
 async def main():
-    data = await get_i18n_data()
-    apply_to_avatars(data)
-    apply_to_buddy(data)
+    apply_to_avatars()
+    # apply_to_buddy(data)
     await dump_avatars()
     await dump_buddy()

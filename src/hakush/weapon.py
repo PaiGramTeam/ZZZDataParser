@@ -9,7 +9,7 @@ from models.enums import ZZZRank
 from models.weapon import Weapon
 from path import weapons_path
 from src.hakush.base_data import get_base_data
-from src.hakush.url import weapon_config
+from src.hakush.url import weapon_config, ui_url
 
 all_weapons: List[Weapon] = []
 all_weapons_en_map: Dict[str, Weapon] = {}
@@ -23,12 +23,14 @@ async def parse_config_to_weapon(
     name = config["CHS"]
     name_en = config["EN"]
     desc = config["desc"]
+    icon = str(ui_url / f"{config['icon']}.webp") if config.get("icon") else None
     rank = ZZZRank.get_rank(int(config["rank"]) + 1)
     return Weapon(
         id=wid,
         name=name,
         name_en=name_en,
         description=desc,
+        icon=icon,
         rank=rank,
     )
 

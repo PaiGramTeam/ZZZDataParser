@@ -9,7 +9,7 @@ from models.buddy import Buddy
 from models.enums import ZZZRank
 from path import buddy_path
 from src.hakush.base_data import get_base_data
-from src.hakush.url import buddy_config
+from src.hakush.url import buddy_config, ui_url
 
 all_buddy: List[Buddy] = []
 all_buddy_en_map: Dict[str, Buddy] = {}
@@ -19,11 +19,13 @@ async def parse_config_to_buddy(_bid: str, config: Dict[str, str]) -> Buddy:
     bid = int(_bid)
     name = config["CHS"]
     name_en = config["EN"]
+    icon = str(ui_url / config["icon"].split("/")[-1].replace(".png", ".webp"))
     rank = ZZZRank.get_rank(int(config["rank"]) + 1)
     return Buddy(
         id=bid,
         name=name,
         name_en=name_en,
+        icon=icon,
         rank=rank,
     )
 

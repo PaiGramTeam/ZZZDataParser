@@ -76,8 +76,8 @@ async def get_character_banner_image(avatar: Avatar) -> None:
 def apply_image_to_avatar(avatars: List[Avatar]):
     for avatar in avatars:
         if ava := all_avatars_en_map.get(avatar.name.lower()):
-            ava.rank = avatar.rank
-            ava.icon[0] = avatar.first_image
+            # ava.rank = avatar.rank
+            # ava.icon[0] = avatar.first_image
             ava.icon[3] = avatar.banner_image
 
 

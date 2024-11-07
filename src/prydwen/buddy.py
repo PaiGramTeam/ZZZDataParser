@@ -45,7 +45,7 @@ def apply_image_to_buddies(buddies: Dict[str, Buddy]):
 
 
 async def main():
-    html = await get_buddies_html()
-    buddies = get_all_buddies_links(html)
-    apply_image_to_buddies(buddies)
+    # html = await get_buddies_html()
+    # buddies = get_all_buddies_links(html)
+    # apply_image_to_buddies(buddies)
     await dump_buddy()

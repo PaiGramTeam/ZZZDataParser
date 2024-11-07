@@ -65,9 +65,9 @@ def notice_none():
 
 
 async def main():
-    html = await get_weapons_html()
-    weapons = get_all_weapons_links(html)
-    fix_weapon(weapons)
-    apply_image_to_weapon(weapons)
-    await dump_weapons()
+    # html = await get_weapons_html()
+    # weapons = get_all_weapons_links(html)
+    # fix_weapon(weapons)
+    # apply_image_to_weapon(weapons)
+    # await dump_weapons()
     notice_none()
