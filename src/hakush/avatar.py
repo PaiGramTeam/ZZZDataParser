@@ -9,7 +9,7 @@ from models.avatar import Avatar
 from models.enums import ZZZRank, ZZZElementType
 from path import avatars_path
 from src.hakush.base_data import get_base_data
-from src.hakush.url import avatar_config
+from src.hakush.url import avatar_config, ui_url
 
 all_avatars: List[Avatar] = []
 all_avatars_en_map: Dict[str, Avatar] = {}
@@ -29,6 +29,8 @@ async def parse_config_to_avatar(_aid: str, config: Dict[str, str]) -> Avatar:
         element = ZZZElementType.NULL
     speciality = config["type"]
     rank = ZZZRank.get_rank(int(config["rank"]) + 1) if config["rank"] else ZZZRank.NULL
+    icon = config["icon"]
+    gacha_icon = str(ui_url / f"{config['icon']}.webp") if icon else ""
     return Avatar(
         id=aid,
         name=name,
@@ -38,6 +40,7 @@ async def parse_config_to_avatar(_aid: str, config: Dict[str, str]) -> Avatar:
         rank=rank,
         element=element,
         speciality=speciality,
+        icon=["", "", "", gacha_icon],
     )
 
 

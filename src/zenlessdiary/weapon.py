@@ -1,13 +1,12 @@
 import dataclasses
-from typing import Dict
+from typing import Dict, List
 
 from bs4 import BeautifulSoup
 
 from models.enums import ZZZRank
 from src.client import client
-from .avatar import parse_rank
 from .url import weapons_url
-from ..hakush.weapon import all_weapons_en_map, dump_weapons
+from ..hakush.weapon import all_weapons_en_map
 
 
 @dataclasses.dataclass
@@ -15,6 +14,16 @@ class Weapon:
     name: str
     image: str
     rank: ZZZRank
+
+
+def parse_rank(class_list: List[str]) -> ZZZRank:
+    if "s" in class_list or "S" in class_list:
+        return ZZZRank.S
+    if "a" in class_list or "A" in class_list:
+        return ZZZRank.A
+    if "b" in class_list or "B" in class_list:
+        return ZZZRank.B
+    return ZZZRank.NULL
 
 
 async def get_weapons_html() -> str:
