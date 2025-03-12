@@ -6,6 +6,8 @@ from src.client import client
 from src.prydwen.url import base_data_url, characters_url
 from src.hakush.avatar import all_avatars_en_map, dump_avatars
 
+AVATAR_MAP = {"Anby: Soldier 0": "Soldier 0 - Anby"}
+
 
 async def get_characters_html() -> str:
     return await client.get(characters_url)
@@ -29,6 +31,8 @@ def get_all_characters_links(html: str) -> Dict[str, str]:
 
 def apply_image_to_avatar(avatars: Dict[str, str]):
     for name, link in avatars.items():
+        if name in AVATAR_MAP:
+            name = AVATAR_MAP[name]
         if ava := all_avatars_en_map.get(name.lower()):
             ava.icon[2] = link
 
