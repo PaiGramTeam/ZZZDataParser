@@ -1,0 +1,250 @@
+[
+    {
+        "id": 53001,
+        "name": "企鹅布",
+        "name_en": "Penguinboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole12.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53002,
+        "name": "招财布",
+        "name_en": "Luckyboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole11.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53003,
+        "name": "寻宝布",
+        "name_en": "Exploreboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole06.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53004,
+        "name": "扑击布",
+        "name_en": "Sumoboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole05.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53005,
+        "name": "纸壳布",
+        "name_en": "Paperboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole04.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53006,
+        "name": "纸袋布",
+        "name_en": "Bagboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole01.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53007,
+        "name": "泪眼布",
+        "name_en": "Cryboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole02.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53008,
+        "name": "果核布",
+        "name_en": "Avocaboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole03.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53009,
+        "name": "飞靶布",
+        "name_en": "Boollseye",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole18.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53010,
+        "name": "电击布",
+        "name_en": "Electroboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole16.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53011,
+        "name": "磁力布",
+        "name_en": "Magnetiboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole21.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53012,
+        "name": "气压布",
+        "name_en": "Booressure",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole17.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53013,
+        "name": "不良布",
+        "name_en": "Baddieboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole24.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53014,
+        "name": "加班布",
+        "name_en": "Overtimeboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole32.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53015,
+        "name": "格斗布",
+        "name_en": "Brawlerboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole29.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 53017,
+        "name": "骑士布",
+        "name_en": "Knightboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole27.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 54001,
+        "name": "鲨牙布",
+        "name_en": "Sharkboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole07.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54002,
+        "name": "阿全",
+        "name_en": "Safety",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole10.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54003,
+        "name": "恶魔布",
+        "name_en": "Devilboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole14.webp",
+        "square": "",
+        "rank": "A"
+    },
+    {
+        "id": 54004,
+        "name": "巴特勒",
+        "name_en": "Butler",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole09.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54005,
+        "name": "艾米莉安",
+        "name_en": "Amillion",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole13.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54006,
+        "name": "飚速布",
+        "name_en": "Rocketboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole15.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54008,
+        "name": "插头布",
+        "name_en": "Plugboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole19.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54009,
+        "name": "共鸣布",
+        "name_en": "Resonaboo",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole20.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54011,
+        "name": "赤红莫库斯",
+        "name_en": "Red Moccus",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole26.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54012,
+        "name": "阿崔巡查",
+        "name_en": "Officer Cui",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole25.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54013,
+        "name": "左轮布",
+        "name_en": "Bangvolver",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole23.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54014,
+        "name": "格列佛探员",
+        "name_en": "Agent Gulliver",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole28.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54015,
+        "name": "咔嚓仔",
+        "name_en": "Snap",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole30.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54016,
+        "name": "罗宾",
+        "name_en": "Robin",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole31.webp",
+        "square": "",
+        "rank": "S"
+    },
+    {
+        "id": 54017,
+        "name": "狮耶",
+        "name_en": "Belion",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/BangbooGarageRole36.webp",
+        "square": "",
+        "rank": "S"
+    }
+]

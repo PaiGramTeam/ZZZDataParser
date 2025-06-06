@@ -1,0 +1,202 @@
+[
+    {
+        "id": 31000,
+        "name": "啄木鸟电音",
+        "name_en": "Woodpecker Electro",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Woodpecker-Electro.webp",
+        "desc_2": "暴击率+8%。",
+        "desc_4": "<color=#FFFFFF>[普通攻击]<\/color>、<color=#FFFFFF>[闪避反击]<\/color>或<color=#FFFFFF>[强化特殊技]<\/color>命中敌人并触发暴击时，分别为装备者提供1层增益效果，每层增益效果使装备者的攻击力提升9%，持续6秒，不同招式分别结算持续时间。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 31100,
+        "name": "河豚电音",
+        "name_en": "Puffer Electro",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Puffer-Electro.webp",
+        "desc_2": "穿透率+8%。",
+        "desc_4": "<color=#FFFFFF>[终结技]<\/color>造成的伤害提升20%；发动<color=#FFFFFF>[终结技]<\/color>时，装备者的攻击力提升15%，持续12秒。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 31200,
+        "name": "震星迪斯科",
+        "name_en": "Shockstar Disco",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Shockstar-Disco.webp",
+        "desc_2": "冲击力+6%。",
+        "desc_4": "<color=#FFFFFF>[普通攻击]<\/color>、<color=#FFFFFF>[冲刺攻击]<\/color>、<color=#FFFFFF>[闪避反击]<\/color>对主要攻击目标造成的失衡值提升20%。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 31300,
+        "name": "自由蓝调",
+        "name_en": "Freedom Blues",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Freedom-Blues.webp",
+        "desc_2": "异常精通+30点。",
+        "desc_4": "<color=#FFFFFF>[强化特殊技]<\/color>命中敌人时，根据装备者的属性类型，使目标对应属性异常积蓄抗性降低20%，持续8秒，相同属性类型的效果不可叠加。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 31400,
+        "name": "激素朋克",
+        "name_en": "Hormone Punk",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Hormone-Punk.webp",
+        "desc_2": "攻击力+10%。",
+        "desc_4": "进入接战状态或换入前场时，装备者的攻击力提升25%，持续10秒，20秒内最多触发一次。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 31500,
+        "name": "灵魂摇滚",
+        "name_en": "Soul Rock",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Soul-Rock.webp",
+        "desc_2": "防御力+16%。",
+        "desc_4": "受到敌方攻击并损失生命值时，装备者受到的伤害降低40%，持续2.5秒，15秒内最多触发一次。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 31600,
+        "name": "摇摆爵士",
+        "name_en": "Swing Jazz",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/07\/Swing-Jazz.webp",
+        "desc_2": "能量自动回复+20%。",
+        "desc_4": "发动<color=#FFFFFF>[连携技]<\/color>或<color=#FFFFFF>[终结技]<\/color>时，全队角色造成的伤害提升15%，持续12秒，同名被动效果之间不可叠加。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 31800,
+        "name": "混沌爵士",
+        "name_en": "Chaos Jazz",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/09\/Chaos-Jazz.webp",
+        "desc_2": "异常精通+30点。",
+        "desc_4": "<color=#FF5521>火属性伤害<\/color>和<color=#2EB6FF>电属性伤害<\/color>提升15%；位于后场时，<color=#FFFFFF>[强化特殊技]<\/color>和<color=#FFFFFF>[支援攻击]<\/color>造成的伤害提升20%，换入前场后，该增益效果仍然保留，持续5秒，保留效果7.5秒内最多触发一次。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 31900,
+        "name": "原始朋克",
+        "name_en": "Proto Punk",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/09\/Proto-Punk.webp",
+        "desc_2": "施加的护盾值提升15%。",
+        "desc_4": "队伍中任意角色发动<color=#FFFFFF>[招架支援]<\/color>或<color=#FFFFFF>[回避支援]<\/color>时，全队角色造成的伤害提升15%，持续10秒，同名被动效果之间不可叠加。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 32200,
+        "name": "炎狱重金属",
+        "name_en": "Inferno Metal",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Inferno-Metal.webp",
+        "desc_2": "<color=#FF5521>火属性伤害<\/color>+10%。",
+        "desc_4": "攻击命中处于<color=#FF5521>[灼烧]<\/color>状态下的敌人时，装备者的暴击率提升28%，持续8秒。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 32300,
+        "name": "混沌重金属",
+        "name_en": "Chaotic Metal",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Chaotic-Metal.webp",
+        "desc_2": "<color=#FE437E>以太伤害<\/color>+10%。",
+        "desc_4": "装备者的暴击伤害提升20%，队伍中任意角色触发<color=#FE437E>[侵蚀]<\/color>效果的额外伤害时，该增益效果额外提升5.5%，最多叠加6层，持续8秒，重复触发时刷新持续时间。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 32400,
+        "name": "雷暴重金属",
+        "name_en": "Thunder Metal",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Thunder-Metal.webp",
+        "desc_2": "<color=#2EB6FF>电属性伤害<\/color>+10%。",
+        "desc_4": "当场上存在处于<color=#2EB6FF>[感电]<\/color>状态下的敌人时，装备者的攻击力提升28%。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 32500,
+        "name": "极地重金属",
+        "name_en": "Polar Metal",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Polar-Metal.webp",
+        "desc_2": "<color=#98EFF0>冰属性伤害<\/color>+10%。",
+        "desc_4": "<color=#FFFFFF>[普通攻击]<\/color>和<color=#FFFFFF>[冲刺攻击]<\/color>造成的伤害提升20%，队伍中任意角色对敌人施加<color=#98EFF0>[冻结]<\/color>或触发<color=#98EFF0>[碎冰]<\/color>效果时，该增益效果额外提升20%，持续12秒。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 32600,
+        "name": "獠牙重金属",
+        "name_en": "Fanged Metal",
+        "icon": "https:\/\/zenlessdiary.com\/wp-content\/uploads\/2024\/06\/Fanged-Metal.webp",
+        "desc_2": "<color=#F0D12B>物理伤害<\/color>+10%。",
+        "desc_4": "队伍中任意角色对敌人施加<color=#F0D12B>[强击]<\/color>效果时，装备者对目标造成的伤害提升35%，持续12秒。",
+        "story": "",
+        "rank": "S"
+    },
+    {
+        "id": 32700,
+        "name": "折枝剑歌",
+        "name_en": "Branch & Blade Song",
+        "icon": "",
+        "desc_2": "暴击伤害+16%。",
+        "desc_4": "异常掌控大于等于115点时，装备者的暴击伤害提升30%；队伍中任意角色对敌人施加<color=#98EFF0>[冻结]<\/color>或触发<color=#98EFF0>[碎冰]<\/color>效果时，装备者的暴击率提升12%，持续15秒。",
+        "story": "",
+        "rank": "NULL"
+    },
+    {
+        "id": 32800,
+        "name": "静听嘉音",
+        "name_en": "Astral Voice",
+        "icon": "",
+        "desc_2": "攻击力+10%。",
+        "desc_4": "队伍中任意角色通过<color=#FFFFFF>[快速支援]<\/color>入场时，全队角色获得1层<color=#FFFFFF>[嘉音]<\/color>，最多叠加3层，持续15秒，重复触发时刷新持续时间，每拥有1层<color=#FFFFFF>[嘉音]<\/color>，通过<color=#FFFFFF>[快速支援]<\/color>入场的角色造成的伤害提升8%，同名被动效果之间不可叠加。",
+        "story": "",
+        "rank": "NULL"
+    },
+    {
+        "id": 32900,
+        "name": "如影相随",
+        "name_en": "Shadow Harmony",
+        "icon": "",
+        "desc_2": "<color=#FFFFFF>[追加攻击]<\/color>和<color=#FFFFFF>[冲刺攻击]<\/color>造成的伤害提升15%。",
+        "desc_4": "<color=#FFFFFF>[追加攻击]<\/color>或<color=#FFFFFF>[冲刺攻击]<\/color>命中敌人时，若造成的伤害与装备者的属性一致，则获得1层增益效果，同一招式内最多触发一次；每拥有1层增益效果，装备者的攻击力提升4%，暴击率提升4%，最多叠加3层，持续15秒，重复触发时刷新持续时间。",
+        "story": "",
+        "rank": "NULL"
+    },
+    {
+        "id": 33000,
+        "name": "法厄同之歌",
+        "name_en": "Phaethon's Melody",
+        "icon": "",
+        "desc_2": "异常掌控+8%。",
+        "desc_4": "队伍中任意角色发动<color=#FFFFFF>[强化特殊技]<\/color>时，装备者的异常精通提升45点，持续8秒；如果发动<color=#FFFFFF>[强化特殊技]<\/color>的角色不是装备者本人时，装备者造成的<color=#FE437E>以太伤害<\/color>提升25%。",
+        "story": "",
+        "rank": "NULL"
+    },
+    {
+        "id": 33100,
+        "name": "云岿如我",
+        "name_en": "Yunkui Tales",
+        "icon": "",
+        "desc_2": "生命值+10%",
+        "desc_4": "发动<color=#FFFFFF>[强化特殊技]<\/color>、<color=#FFFFFF>[连携技]<\/color>、<color=#FFFFFF>[终结技]<\/color>时，暴击率提升4%，最多叠加3层，持续15秒，重复触发时刷新持续时间，拥有3层效果时，造成的贯穿伤害提升10%。",
+        "story": "",
+        "rank": "NULL"
+    },
+    {
+        "id": 33200,
+        "name": "山大王",
+        "name_en": "King of the Summit",
+        "icon": "",
+        "desc_2": "攻击造成的失衡值提升6%",
+        "desc_4": "装备者为[击破]角色时，发动<color=#FFFFFF>[强化特殊技]<\/color>或<color=#FFFFFF>[连携技]<\/color>会使全队角色暴击伤害提升15%，装备者的暴击率大于等于50%时暴击伤害额外提升15%，持续15秒，重复触发时刷新持续时间，同名被动效果之间不可叠加。",
+        "story": "",
+        "rank": "NULL"
+    }
+]

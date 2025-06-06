@@ -1,0 +1,578 @@
+[
+    {
+        "id": 1011,
+        "name": "安比",
+        "name_en": "Anby",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 203,
+        "speciality": 2,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1011.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1011.png",
+            "https:\/\/www.prydwen.gg\/static\/615857093d08a3049e4e4fc809c896c3\/c9885\/1_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole01.webp"
+        ]
+    },
+    {
+        "id": 1021,
+        "name": "猫又",
+        "name_en": "Nekomata",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 200,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1021.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1021.png",
+            "https:\/\/www.prydwen.gg\/static\/615dc9144eebf8d1a52c89a5eadfab1e\/c9885\/9_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole11.webp"
+        ]
+    },
+    {
+        "id": 1031,
+        "name": "妮可",
+        "name_en": "Nicole",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 205,
+        "speciality": 4,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1031.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1031.png",
+            "https:\/\/www.prydwen.gg\/static\/a2c9d34e985fe39d89a8159a2e3bc4c9\/c9885\/2_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole12.webp"
+        ]
+    },
+    {
+        "id": 1041,
+        "name": "「11号」",
+        "name_en": "Soldier 11",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 201,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1041.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1041.png",
+            "https:\/\/www.prydwen.gg\/static\/4a2d99efaae24f02f6150f2a636084f4\/c9885\/5_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole05.webp"
+        ]
+    },
+    {
+        "id": 1061,
+        "name": "可琳",
+        "name_en": "Corin",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 200,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1061.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1061.png",
+            "https:\/\/www.prydwen.gg\/static\/4342eddfa1ee1d9568ea697774d4100b\/c9885\/11_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole09.webp"
+        ]
+    },
+    {
+        "id": 1071,
+        "name": "凯撒",
+        "name_en": "Caesar",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 200,
+        "speciality": 5,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1071.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1071.png",
+            "https:\/\/www.prydwen.gg\/static\/23ea48e0e401bd9256d9ba899448738b\/b26e2\/22_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole25.webp"
+        ]
+    },
+    {
+        "id": 1081,
+        "name": "比利",
+        "name_en": "Billy",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 200,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1081.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1081.png",
+            "https:\/\/www.prydwen.gg\/static\/b5d5ae6a09510a7846c738abc06a3ab2\/c9885\/3_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole10.webp"
+        ]
+    },
+    {
+        "id": 1091,
+        "name": "雅",
+        "name_en": "Miyabi",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 202,
+        "speciality": 3,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1091.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1091.png",
+            "https:\/\/www.prydwen.gg\/static\/79de9513b947b02ddd96b41c905168b8\/c9885\/10_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole13.webp"
+        ]
+    },
+    {
+        "id": 1101,
+        "name": "珂蕾妲",
+        "name_en": "Koleda",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 201,
+        "speciality": 2,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1101.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1101.png",
+            "https:\/\/www.prydwen.gg\/static\/8a253335d36c0007a3c2add3fb787cbd\/c9885\/12_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole14.webp"
+        ]
+    },
+    {
+        "id": 1111,
+        "name": "安东",
+        "name_en": "Anton",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 203,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1111.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1111.png",
+            "https:\/\/www.prydwen.gg\/static\/3de23a4b31243629062226c10ec6720e\/c9885\/15_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole15.webp"
+        ]
+    },
+    {
+        "id": 1121,
+        "name": "本",
+        "name_en": "Ben",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 201,
+        "speciality": 5,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1121.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1121.png",
+            "https:\/\/www.prydwen.gg\/static\/9e8d615116bfc7abf6e1bfa94edd638a\/c9885\/8_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole16.webp"
+        ]
+    },
+    {
+        "id": 1131,
+        "name": "苍角",
+        "name_en": "Soukaku",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 202,
+        "speciality": 4,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1131.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1131.png",
+            "https:\/\/www.prydwen.gg\/static\/3d418dfcd851030fc819647fce23a087\/c9885\/6_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole17.webp"
+        ]
+    },
+    {
+        "id": 1141,
+        "name": "莱卡恩",
+        "name_en": "Lycaon",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 202,
+        "speciality": 2,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1141.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1141.png",
+            "https:\/\/www.prydwen.gg\/static\/380526f875a348cd738af7e98416c165\/c9885\/14_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole18.webp"
+        ]
+    },
+    {
+        "id": 1151,
+        "name": "露西",
+        "name_en": "Lucy",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 201,
+        "speciality": 4,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1151.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1151.png",
+            "https:\/\/www.prydwen.gg\/static\/4d91060488554694e8c1ec47c078db4a\/b26e2\/17_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole27.webp"
+        ]
+    },
+    {
+        "id": 1161,
+        "name": "莱特",
+        "name_en": "Lighter",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 201,
+        "speciality": 2,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1161.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1161.png",
+            "https:\/\/www.prydwen.gg\/static\/66d0bd76dc05c5851d2bd1cd2c081129\/b26e2\/25_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole26.webp"
+        ]
+    },
+    {
+        "id": 1171,
+        "name": "柏妮思",
+        "name_en": "Burnice",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 201,
+        "speciality": 3,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1171.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1171.png",
+            "https:\/\/www.prydwen.gg\/static\/7364dcf2659ce0d5390e76024a84467e\/b26e2\/23_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole32.webp"
+        ]
+    },
+    {
+        "id": 1181,
+        "name": "格莉丝",
+        "name_en": "Grace",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 203,
+        "speciality": 3,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1181.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1181.png",
+            "https:\/\/www.prydwen.gg\/static\/e401edadbdf0e88a2cc05fad12702d84\/c9885\/4_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole20.webp"
+        ]
+    },
+    {
+        "id": 1191,
+        "name": "艾莲",
+        "name_en": "Ellen",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 202,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1191.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1191.png",
+            "https:\/\/www.prydwen.gg\/static\/a8819792d0e4d4d37c387bd68e5edfa4\/c9885\/13_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole21.webp"
+        ]
+    },
+    {
+        "id": 1201,
+        "name": "悠真",
+        "name_en": "Harumasa",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 203,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1201.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1201.png",
+            "https:\/\/www.prydwen.gg\/static\/1432161e62dff32097d432906fae85c2\/b26e2\/26_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole35.webp"
+        ]
+    },
+    {
+        "id": 1211,
+        "name": "丽娜",
+        "name_en": "Rina",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 203,
+        "speciality": 4,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1211.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1211.png",
+            "https:\/\/www.prydwen.gg\/static\/a033ab7d2edd6d7aa0bbaaaac47304f7\/c9885\/7_card.png",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole22.webp"
+        ]
+    },
+    {
+        "id": 1221,
+        "name": "柳",
+        "name_en": "Yanagi",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 203,
+        "speciality": 3,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1221.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1221.png",
+            "https:\/\/www.prydwen.gg\/static\/be8ec00eb7f874531695e2194a3f86e3\/b26e2\/24_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole31.webp"
+        ]
+    },
+    {
+        "id": 1241,
+        "name": "朱鸢",
+        "name_en": "Zhu Yuan",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 205,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1241.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1241.png",
+            "https:\/\/www.prydwen.gg\/static\/985d82faa526c95c6588080f72827ffc\/b26e2\/16_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole23.webp"
+        ]
+    },
+    {
+        "id": 1251,
+        "name": "青衣",
+        "name_en": "Qingyi",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 203,
+        "speciality": 2,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1251.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1251.png",
+            "https:\/\/www.prydwen.gg\/static\/3d6b608143a955440dce864c8929ab5d\/b26e2\/19_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole29.webp"
+        ]
+    },
+    {
+        "id": 1261,
+        "name": "简",
+        "name_en": "Jane",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 200,
+        "speciality": 3,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1261.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1261.png",
+            "https:\/\/www.prydwen.gg\/static\/624e37d9caaf8f3c9b5d30488104af60\/b26e2\/21_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole24.webp"
+        ]
+    },
+    {
+        "id": 1271,
+        "name": "赛斯",
+        "name_en": "Seth",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 203,
+        "speciality": 5,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1271.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1271.png",
+            "https:\/\/www.prydwen.gg\/static\/08e1b50db955142a4022bde6e7f3d2aa\/b26e2\/20_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole30.webp"
+        ]
+    },
+    {
+        "id": 1281,
+        "name": "派派",
+        "name_en": "Piper",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 200,
+        "speciality": 3,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1281.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1281.png",
+            "https:\/\/www.prydwen.gg\/static\/149e740693e896724e313c62321586d8\/b26e2\/18_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole28.webp"
+        ]
+    },
+    {
+        "id": 1291,
+        "name": "雨果",
+        "name_en": "Hugo",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 202,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1291.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1291.png",
+            "https:\/\/www.prydwen.gg\/static\/4907f19df0949ebbca84603aa9f2bae5\/b26e2\/33_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole42.webp"
+        ]
+    },
+    {
+        "id": 1311,
+        "name": "耀嘉音",
+        "name_en": "Astra Yao",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 205,
+        "speciality": 4,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1311.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1311.png",
+            "https:\/\/www.prydwen.gg\/static\/840b08294e241ced35e5ab8c70f0a3f4\/b26e2\/27_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole36.webp"
+        ]
+    },
+    {
+        "id": 1321,
+        "name": "伊芙琳",
+        "name_en": "Evelyn",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 201,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1321.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1321.png",
+            "https:\/\/www.prydwen.gg\/static\/aa2e94f742a6e200918a4db3e350ffd5\/b26e2\/28_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole37.webp"
+        ]
+    },
+    {
+        "id": 1331,
+        "name": "薇薇安",
+        "name_en": "Vivian",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 205,
+        "speciality": 3,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1331.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1331.png",
+            "https:\/\/www.prydwen.gg\/static\/beca9be109ab07cbafe20685bac7b00f\/b26e2\/32_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole41.webp"
+        ]
+    },
+    {
+        "id": 1351,
+        "name": "波可娜",
+        "name_en": "Pulchra",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 200,
+        "speciality": 2,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1351.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1351.png",
+            "https:\/\/www.prydwen.gg\/static\/fde3974d7b4ae31a43e84cdc110ea6c2\/b26e2\/30_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole38.webp"
+        ]
+    },
+    {
+        "id": 1361,
+        "name": "「扳机」",
+        "name_en": "Trigger",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 203,
+        "speciality": 2,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1361.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1361.png",
+            "https:\/\/www.prydwen.gg\/static\/aa68a7e386041695c934e29bf2169e33\/b26e2\/31_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole39.webp"
+        ]
+    },
+    {
+        "id": 1371,
+        "name": "仪玄",
+        "name_en": "Yixuan",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 205,
+        "speciality": 6,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1371.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1371.png",
+            "https:\/\/www.prydwen.gg\/static\/d2425ce390c1ecfdca657dfdc33c6dc1\/b26e2\/34_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole44.webp"
+        ]
+    },
+    {
+        "id": 1381,
+        "name": "零号·安比",
+        "name_en": "Soldier 0 - Anby",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 203,
+        "speciality": 1,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1381.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1381.png",
+            "https:\/\/www.prydwen.gg\/static\/19230eb5314f4da9e3b51c7753968e79\/b26e2\/29_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole40.webp"
+        ]
+    },
+    {
+        "id": 1391,
+        "name": "橘福福",
+        "name_en": "Ju Fufu",
+        "name_full": "",
+        "name_short": "",
+        "rank": "S",
+        "element": 201,
+        "speciality": 2,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1391.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1391.png",
+            "https:\/\/www.prydwen.gg\/static\/5049e0ee9bf6577f7e614f82ea84fcf7\/b26e2\/35_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole43.webp"
+        ]
+    },
+    {
+        "id": 1421,
+        "name": "潘引壶",
+        "name_en": "Pan Yinhu",
+        "name_full": "",
+        "name_short": "",
+        "rank": "A",
+        "element": 200,
+        "speciality": 5,
+        "icon": [
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_vertical_painting\/role_vertical_painting_1421.png",
+            "https:\/\/act-webstatic.hoyoverse.com\/game_record\/zzzv2\/role_square_avatar\/role_square_avatar_1421.png",
+            "https:\/\/www.prydwen.gg\/static\/8bc97d0f273f3cee11ee93736ac49562\/b26e2\/36_card.webp",
+            "https:\/\/api.hakush.in\/zzz\/UI\/IconRole45.webp"
+        ]
+    }
+]

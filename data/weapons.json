@@ -1,0 +1,562 @@
+[
+    {
+        "id": 12001,
+        "name": "「月相」-望",
+        "name_en": "[Lunar] Pleniluna",
+        "description": "A W-Engine that prioritizes damage output over noise reduction. It can indiscriminately deal considerable damage to all units nearby.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_01.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12002,
+        "name": "「月相」-晦",
+        "name_en": "[Lunar] Decrescent",
+        "description": "A W-Engine with excellent sonic and thermal energy usage, capable of hitting its target with a double whammy.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_02.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12003,
+        "name": "「月相」-朔",
+        "name_en": "[Lunar] Noviluna",
+        "description": "A high-capacity portable W-Engine that can collect dissipated energy from its surroundings, thus enhancing the combat effectiveness of its operator.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_03.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12004,
+        "name": "「残响」-Ⅰ型",
+        "name_en": "[Reverb] Mark I",
+        "description": "A special W-Engine featuring a built-in sonic generator that boosts its damage output.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_04.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12005,
+        "name": "「残响」-Ⅱ型",
+        "name_en": "[Reverb] Mark II",
+        "description": "A standardized W-Engine with balanced performance that enhances its owner's and their teammates' combat effectiveness in all aspects.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_05.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12006,
+        "name": "「残响」-Ⅲ型",
+        "name_en": "[Reverb] Mark III",
+        "description": "A special W-Engine that features motion capture algorithms, which enhance the overall combat competency of your squad.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_06.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12007,
+        "name": "「湍流」-铳型",
+        "name_en": "[Vortex] Revolver",
+        "description": "An energy-storage type W-Engine with a unique operation circuit. It will absorb scattered energy up to a certain amount before unleashing it all at once.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_07.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12008,
+        "name": "「湍流」-矢型",
+        "name_en": "[Vortex] Arrow",
+        "description": "A tactical W-Engine that locates enemies using high-frequency sound waves. Its aiming aid can make its operator's precision attack more deadly.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_08.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12009,
+        "name": "「湍流」-斧型",
+        "name_en": "[Vortex] Hatchet",
+        "description": "A frequency-converting W-Engine that can quickly generate excessive power and effectively increase its user's battle prowess.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_09.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12010,
+        "name": "「电磁暴」-壹式",
+        "name_en": "[Magnetic Storm] Alpha",
+        "description": "A special W-Engine that can analyze the target's weak spots through real-time calculations.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_10.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12011,
+        "name": "「电磁暴」-贰式",
+        "name_en": "[Magnetic Storm] Bravo",
+        "description": "A damage-type W-Engine that features an enhanced movement detection module that can quickly alter its output intensity to optimize battle efficiency.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_11.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12012,
+        "name": "「电磁暴」-叁式",
+        "name_en": "[Magnetic Storm] Charlie",
+        "description": "A high-capacity W-Engine that features a built-in generator, which allows it to keep a stable storage of electrical power.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_12.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12013,
+        "name": "「恒等式」-本格",
+        "name_en": "[Identity] Base",
+        "description": "A W-Engine with a component structure adjusted according to specific parameters. It can enhance the defensive capabilities of those who have a certain style of combat.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_13.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12014,
+        "name": "「恒等式」-变格",
+        "name_en": "[Identity] Inflection",
+        "description": "A functional W-Engine that specializes in energy conversion. It can analyze combat environments and generate special sounds to disrupt the enemy's offense.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_14.webp",
+        "rank": "B"
+    },
+    {
+        "id": 12015,
+        "name": "「灰烬」-钴蓝",
+        "name_en": "[Cinder] Cobalt",
+        "description": "A W-Engine with a built-in heating component. When operating at high speeds, it resembles a blazing blue flame.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_B_Common_15.webp",
+        "rank": "B"
+    },
+    {
+        "id": 13001,
+        "name": "街头巨星",
+        "name_en": "Street Superstar",
+        "description": "A custom-made W-Engine designed for urban music lovers. It sacrifices heat dissipation components for improved sound quality.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_01.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13002,
+        "name": "时光切片",
+        "name_en": "Slice of Time",
+        "description": "A special W-Engine equipped with a high-speed camera module. The best choice for in-Hollow photography enthusiasts.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_02.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13003,
+        "name": "雨林饕客",
+        "name_en": "Rainforest Gourmet",
+        "description": "A consumer-class W-Engine launched by an exotic pet fan club to promote pet culture. Due to its cute appearance, it was once a very popular model.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_03.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13004,
+        "name": "星徽引擎",
+        "name_en": "Starlight Engine",
+        "description": "A damage-type W-Engine made of special Etheric matter. When its user is attacked, it builds up energy.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_04.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13005,
+        "name": "人为刀俎",
+        "name_en": "Steam Oven",
+        "description": "A high-power W-Engine that boasts a cutting-edge energy conversion system. It collects excess heat and supplies it to the steamer.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_05.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13006,
+        "name": "贵重骨核",
+        "name_en": "Precious Fossilized Core",
+        "description": "A special W-Engine whose outer shell is made of composite Etheric matter that effectively absorbs impact, and turns it against the enemy.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_06.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13007,
+        "name": "正版变身器",
+        "name_en": "Original Transmorpher",
+        "description": "An epic W-Engine favored by Starlight Knight fans. Its high popularity and scarcity marketing strategy have caused an influx of knock-offs.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_07.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13008,
+        "name": "双生泣星",
+        "name_en": "Weeping Gemini",
+        "description": "A W-Engine produced by recycling abandoned Bangboo shells. Its electrode cores made of recycled metals can release high-voltage charges.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_08.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13009,
+        "name": "触电唇彩",
+        "name_en": "Electro-Lip Gloss",
+        "description": "This damage-type W-Engine boasts a built-in current transformer, and automatically attracts electrically sensitive objects around the operator and deals additional damage to them.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_09.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13010,
+        "name": "兔能环",
+        "name_en": "Bunny Band",
+        "description": "A special W-Engine decorated with a fluffy bunny. However, it is just an imitation of the real animal.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_10.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13011,
+        "name": "春日融融",
+        "name_en": "Spring Embrace",
+        "description": "A special W-Engine equipped with a temperature regulator where residual heat generated by the W-Engine's high frequency is funneled into the hot springs on its surface.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_11.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13012,
+        "name": "幻变魔方",
+        "name_en": "Puzzle Sphere",
+        "description": "The W-Engine, with its bright colors and great performance, saw poor sales at first because it resembled a toy. But with its reasonable price, it slowly gained a positive reputation.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_12.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13013,
+        "name": "鎏金花信",
+        "name_en": "Gilded Blossom",
+        "description": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_13.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13014,
+        "name": "电波漫步",
+        "name_en": "Radiowave Journey",
+        "description": "Designed for those Hollow-dwelling bards who refuse to listen to the same albums repeatedly, this W-Engine comes equipped with a radio module that can transform Etheric frequencies into melodies.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_14.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13015,
+        "name": "强音热望",
+        "name_en": "Marcato Desire",
+        "description": "Gather 'round, mortals! Turn up the music!",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_15.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13016,
+        "name": "光影刻刀",
+        "name_en": "Reel Projector",
+        "description": "Clearly a W-Engine is for sound, and not images. What kind of lunatic genius would insist on stuffing a 16mm film camera into a W-Engine?",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_Common_16.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13101,
+        "name": "德玛拉电池Ⅱ型",
+        "name_en": "Demara Battery Mark II",
+        "description": "A customized W-Engine that focuses on energy storage, modified to improve its energy capacity. This model is often used by Anby.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1011.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13103,
+        "name": "聚宝箱",
+        "name_en": "The Vault",
+        "description": "A cost-effective W-Engine that can store energy, with improvements made to its internal space. This model is often used by Nicole.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1031.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13106,
+        "name": "家政员",
+        "name_en": "Housekeeper",
+        "description": "An enhanced W-Engine with a high rotation speed. A chainsaw has been integrated into its shaft. This model is often used by Corin.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1061.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13108,
+        "name": "仿制星徽引擎",
+        "name_en": "Starlight Engine Replica",
+        "description": "A customized supercomputing W-Engine, specialized in aim support and ballistic calculations. Modified by Billy, it now looks like some sort of knock-off Starlight Knight figurine.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1081.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13111,
+        "name": "旋钻机-赤轴",
+        "name_en": "Drill Rig - Red Axis",
+        "description": "Originally a rev-enhanced W-Engine, it has been modified by Anton with the most expensive rotary drill parts that allow it to exceed its output limits.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1111.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13112,
+        "name": "比格气缸",
+        "name_en": "Big Cylinder",
+        "description": "A powerful protection-type W-Engine, characterized by thick oil cylinders that ceaselessly roar inside it. It can provide sufficient power for heavy machinery.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1121.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13113,
+        "name": "含羞恶面",
+        "name_en": "Bashful Demon",
+        "description": "An intricate W-Engine developed by Section 6 and later modified with extra features. It can control Ether particles to form an energy field. This model is favored by Soukaku.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1131.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13115,
+        "name": "好斗的阿炮",
+        "name_en": "Kaboom the Cannon",
+        "description": "A support W-Engine propelled by jets that is both mobile and impactful, it can traverse the entire battlefield providing combat buffs.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1151.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13127,
+        "name": "维序者-特化型",
+        "name_en": "Peacekeeper - Specialized",
+        "description": "A defensive W-Engine independently researched and created by Public Security which simplifies the offensive components to enhance the energy conversion ability in its shield. ",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1271.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13128,
+        "name": "轰鸣座驾",
+        "name_en": "Roaring Ride",
+        "description": "An energy W-Engine modded from spare parts of a truck's engine. It converts the original cylinder into an energy storage unit, which is highly advantageous.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1281.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13135,
+        "name": "裁纸刀",
+        "name_en": "Box Cutter",
+        "description": "An energy W-Engine modded from spare parts of a truck's engine. It converts the original cylinder into an energy storage unit, which is highly advantageous.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1351.webp",
+        "rank": "A"
+    },
+    {
+        "id": 13142,
+        "name": "震元奇枢",
+        "name_en": "Tremor Trigram Vessel",
+        "description": "Pressing acupoints is like cooking. Striking the fatal acupoint is like setting the stove on fire, bringing disaster.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_A_1421.webp",
+        "rank": "A"
+    },
+    {
+        "id": 14001,
+        "name": "加农转子",
+        "name_en": "Cannon Rotor",
+        "description": "A high-performance supercomputing W-Engine, capable of collecting real-time battlefield data and equipped with mini cannons.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_Common_01.webp",
+        "rank": "A"
+    },
+    {
+        "id": 14002,
+        "name": "逍遥游球",
+        "name_en": "Unfettered Game Ball",
+        "description": "A new supercomputing W-Engine, featuring cutting-edge integrated chips that dynamically monitor the battlefield and provide tactical analysis for the user.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_Common_02.webp",
+        "rank": "A"
+    },
+    {
+        "id": 14003,
+        "name": "左轮转子",
+        "name_en": "Six Shooter",
+        "description": "A special W-Engine modeled after a revolver. It can load bullet-shaped condensed Ether batteries, which release a great amount of power when fired.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_Common_03.webp",
+        "rank": "A"
+    },
+    {
+        "id": 14102,
+        "name": "钢铁肉垫",
+        "name_en": "Steel Cushion",
+        "description": "A supercomputing W-Engine equipped with a motion monitoring feature. Thanks to Nekomata's modifications, it perfectly matches the fast reflexes and combat maneuvers of feline Thirens.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1021.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14104,
+        "name": "硫磺石",
+        "name_en": "The Brimstone",
+        "description": "A W-Engine made for Soldier 11 by Obsidian Division. Its intense heat can be used to clear the entire battlefield.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1041.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14107,
+        "name": "奔袭獠牙",
+        "name_en": "Tusks of Fury",
+        "description": "A versatile W-Engine based on a motorcycle tire that Big Daddy made for Caesar.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1071.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14109,
+        "name": "霰落星殿",
+        "name_en": "Hailstorm Shrine",
+        "description": "Hail falls before the shrine, waking her. The blizzard is coming.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1091.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14110,
+        "name": "燃狱齿轮",
+        "name_en": "Hellfire Gears",
+        "description": "A functional W-Engine with ultra-high power capacity. Modified by Koleda, its energy level has almost exceeded the safety limit.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1101.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14114,
+        "name": "拘缚者",
+        "name_en": "The Restrained",
+        "description": "A special W-Engine with a powerful temperature control system. Modified by Lycaon, it has the capability to quickly create extremely cold environments.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1141.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14116,
+        "name": "焰心桂冠",
+        "name_en": "Blazing Laurel",
+        "description": "A violent W-Engine that can ignite flames with a siphon. It deals simple and crude burn damage, encouraging relentless, bone-crushing follow-up attacks.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1161.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14117,
+        "name": "灼心摇壶",
+        "name_en": "Flamemaker Shaker",
+        "description": "Modified by Burnice, this W-Engine uses a special fuel as its power source to boost combustion performance to the max.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1171.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14118,
+        "name": "嵌合编译器",
+        "name_en": "Fusion Compiler",
+        "description": "The latest W-Engine that possesses a hypercalculation core. It can compile operational codes for machines at top speed. This model is favored by Grace.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1181.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14119,
+        "name": "深海访客",
+        "name_en": "Deep Sea Visitor",
+        "description": "A high-power W-Engine that possesses efficient freezing capabilities and high damage output. This model is often used by Ellen.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1191.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14120,
+        "name": "残心青囊",
+        "name_en": "Zanshin Herb Case",
+        "description": "Bitterness and pain beget hope, and he devours them all.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1201.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14121,
+        "name": "啜泣摇篮",
+        "name_en": "Weeping Cradle",
+        "description": "A special W-Engine with multiple layers embedded inside. It can quickly recharge \tspecial-model Bangboo and custom-made combat equipment. This model is favored by Rina.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1211.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14122,
+        "name": "时流贤者",
+        "name_en": "Timeweaver",
+        "description": "A new model of supercomputing W-Engine custom-made by HSO Section 6, equipped with the most elite calculation and analysis functions.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1221.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14124,
+        "name": "防暴者Ⅵ型",
+        "name_en": "Riot Suppressor Mark VI",
+        "description": "The latest tactical W-Engine used by Public Security's elite Hollow squads, possessing a powerful Ether energy source. It's Zhu Yuan's favored model.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1241.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14125,
+        "name": "玉壶青冰",
+        "name_en": "Ice-Jade Teapot",
+        "description": "A custom stun W-Engine made for an Automaton referencing the combat style and abilities of one. Energy is stored within, then lashes outwards upon conversion.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1251.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14126,
+        "name": "淬锋钳刺",
+        "name_en": "Sharpened Stinger",
+        "description": "A deadly W-Engine from unknown sources, modified personally by Jane Doe with the intent to deal severe physical damage and Anomaly.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1261.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14129,
+        "name": "千面日陨",
+        "name_en": "Myriad Eclipse",
+        "description": "Shadowed by darkness at every step, he laid bare his heart to kindle a single, flickering flame.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1291.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14131,
+        "name": "玲珑妆匣",
+        "name_en": "Elegant Vanity",
+        "description": "Underneath the radiant splendor, her genuine self has never been hidden.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1311.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14132,
+        "name": "心弦夜响",
+        "name_en": "Heartstring Nocturne",
+        "description": "The sound of the strings, sharp as blades, cut through the night, protecting the one.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1321.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14133,
+        "name": "飞鸟星梦",
+        "name_en": "Flight of Fancy",
+        "description": "A bird landed on the windowsill, scattering starlight from its tail feathers.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1331.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14136,
+        "name": "索魂影眸",
+        "name_en": "Spectral Gaze",
+        "description": "Broken eyes hold both resilience and vulnerability.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1361.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14137,
+        "name": "青溟笼舍",
+        "name_en": "Qingming Birdcage",
+        "description": "The world is vast and full of change, and fate is unpredictable. But regardless of hardship or lack thereof, one must stay true to one's heart.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1371.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14138,
+        "name": "牺牲洁纯",
+        "name_en": "Severed Innocence",
+        "description": "The sheen of silver is not innocence. Can the blades of the past cut through fate's connections?",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1381.webp",
+        "rank": "S"
+    },
+    {
+        "id": 14139,
+        "name": "福虓炉炉",
+        "name_en": "Roaring Fur-nace",
+        "description": "The warm fire blazes through the long night, casting light on the tiger's roar in my heart.",
+        "icon": "https:\/\/api.hakush.in\/zzz\/UI\/Weapon_S_1391.webp",
+        "rank": "S"
+    }
+]
