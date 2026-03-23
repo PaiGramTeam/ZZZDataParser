@@ -1,0 +1,392 @@
+{
+    "53001": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole12.png",
+        "rank": 3,
+        "codename": "Penguinboo",
+        "en": "Penguinboo",
+        "desc": "Widdly-waddly, icy and chilly.",
+        "ko": "펭귄부",
+        "zh": "企鹅布",
+        "ja": "ペンギンボンプ"
+    },
+    "53002": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole11.png",
+        "rank": 3,
+        "codename": "Luckyboo",
+        "en": "Luckyboo",
+        "desc": "Takes up quite a bit of space when placed on the counter.",
+        "ko": "럭키부",
+        "zh": "招财布",
+        "ja": "オマネキボンプ"
+    },
+    "53003": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole06.png",
+        "rank": 3,
+        "codename": "Exploreboo",
+        "en": "Exploreboo",
+        "desc": "Beep-beep-beep-beep. Does that mean there treasure or that it's running outta battery?",
+        "ko": "탐험부",
+        "zh": "寻宝布",
+        "ja": "タンケンボンプ"
+    },
+    "53004": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole05.png",
+        "rank": 3,
+        "codename": "Sumoboo",
+        "en": "Sumoboo",
+        "desc": "A sumo wrestler never retreats!",
+        "ko": "스모부",
+        "zh": "扑击布",
+        "ja": "オスモウボンプ"
+    },
+    "53005": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole04.png",
+        "rank": 3,
+        "codename": "Paperboo",
+        "en": "Paperboo",
+        "desc": "Always nostalgic over when it hatched from its shell.",
+        "ko": "종이부",
+        "zh": "纸壳布",
+        "ja": "ハコイリボンプ"
+    },
+    "53006": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole01.png",
+        "rank": 3,
+        "codename": "Bagboo",
+        "en": "Bagboo",
+        "desc": "There's a dark past hidden under that bag...",
+        "ko": "봉투부",
+        "zh": "纸袋布",
+        "ja": "フクロノボンプ"
+    },
+    "53007": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole02.png",
+        "rank": 3,
+        "codename": "Cryboo",
+        "en": "Cryboo",
+        "desc": "Who knows what troubles plague a young Bangboo?",
+        "ko": "울보부",
+        "zh": "泪眼布",
+        "ja": "ウルリンボンプ"
+    },
+    "53008": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole03.png",
+        "rank": 3,
+        "codename": "Avocaboo",
+        "en": "Avocaboo",
+        "desc": "A massive success among people who love veggie salads.",
+        "ko": "아보카부",
+        "zh": "果核布",
+        "ja": "アボカドボンプ"
+    },
+    "53009": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole18.png",
+        "rank": 3,
+        "codename": "Boollseye",
+        "en": "Boollseye",
+        "desc": "Right in the bull's eye!",
+        "ko": "과녁부",
+        "zh": "飞靶布",
+        "ja": "ズバットボンプ"
+    },
+    "53010": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole16.png",
+        "rank": 3,
+        "codename": "Electroboo",
+        "en": "Electroboo",
+        "desc": "Bzzzt... Please wear insulated gloves when petting.",
+        "ko": "찌릿부",
+        "zh": "电击布",
+        "ja": "ビリビリボンプ"
+    },
+    "53011": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole21.png",
+        "rank": 3,
+        "codename": "Magnetiboo",
+        "en": "Magnetiboo",
+        "desc": "Suffering from anxiety caused by an attachment disorder. Treatment plan: Its master should refrain from wearing any metal accessories.",
+        "ko": "자석부",
+        "zh": "磁力布",
+        "ja": "クッツキボンプ"
+    },
+    "53012": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole17.png",
+        "rank": 3,
+        "codename": "Booressure",
+        "en": "Booressure",
+        "desc": "Understanding the mood of a conversation is key to becoming a Bangboo social expert.",
+        "ko": "압력부",
+        "zh": "气压布",
+        "ja": "キアツデボンプ"
+    },
+    "53013": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole24.png",
+        "rank": 3,
+        "codename": "Baddieboo",
+        "en": "Baddieboo",
+        "desc": "Don't mess with it... It won't care if you're a human or Bangboo when it gets angry!",
+        "ko": "불량부",
+        "zh": "不良布",
+        "ja": "カチコミボンプ"
+    },
+    "53014": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole32.png",
+        "rank": 3,
+        "codename": "Overtimeboo",
+        "en": "Overtimeboo",
+        "desc": "Fatigue levels rising... Beep — now over 100!",
+        "ko": "야근부",
+        "zh": "加班布",
+        "ja": "サビザンボンプ"
+    },
+    "53015": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole29.png",
+        "rank": 3,
+        "codename": "Brawlerboo",
+        "en": "Brawlerboo",
+        "desc": "Ten thousand en-nah forward punches as practice per day!",
+        "ko": "격투부",
+        "zh": "格斗布",
+        "ja": "カクトウボンプ"
+    },
+    "53016": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole39.png",
+        "rank": 3,
+        "codename": "Excaliboo",
+        "en": "Excaliboo",
+        "desc": "Only a sacred sword is needed to crown the true king.",
+        "ko": "엑스칼리부",
+        "zh": "圣剑布",
+        "ja": "セイケンボンプ"
+    },
+    "53017": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole27.png",
+        "rank": 3,
+        "codename": "Knightboo",
+        "en": "Knightboo",
+        "desc": "My steed and I can both bounce to accelerate!",
+        "ko": "기사부",
+        "zh": "骑士布",
+        "ja": "キシドウボンプ"
+    },
+    "53019": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole41.png",
+        "rank": 3,
+        "codename": "Bild N. Boolok",
+        "en": "Bild N. Boolok",
+        "desc": "Don't step on the blocks barefoot.",
+        "ko": "블록부",
+        "zh": "乐玩布",
+        "ja": "ブロックボンプ"
+    },
+    "53021": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole45.png",
+        "rank": 4,
+        "codename": "Bangboo_Name_en_53021",
+        "en": "Bangboo_Name_53021",
+        "desc": "Bangboo_Desc_53021",
+        "ko": "Bangboo_Name_53021",
+        "zh": "(Test1)幽浮布",
+        "ja": "Bangboo_Name_53021"
+    },
+    "54001": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole07.png",
+        "rank": 4,
+        "codename": "Sharkboo",
+        "en": "Sharkboo",
+        "desc": "Seen in the distant seas and the seafood section of the fresh food market.",
+        "ko": "샤크부",
+        "zh": "鲨牙布",
+        "ja": "ガブットボンプ"
+    },
+    "54002": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole10.png",
+        "rank": 4,
+        "codename": "Safety",
+        "en": "Safety",
+        "desc": "Safety first, ehn-na second.",
+        "ko": "세이프티",
+        "zh": "阿全",
+        "ja": "ゴアンゼン"
+    },
+    "54003": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole14.png",
+        "rank": 3,
+        "codename": "Devilboo",
+        "en": "Devilboo",
+        "desc": "The only thing more tempting than a devil... is Devilboo!",
+        "ko": "데빌부",
+        "zh": "恶魔布",
+        "ja": "アクマデボンプ"
+    },
+    "54004": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole09.png",
+        "rank": 4,
+        "codename": "Butler",
+        "en": "Butler",
+        "desc": "A perfect butler for a perfect you.",
+        "ko": "버틀러",
+        "zh": "巴特勒",
+        "ja": "バトラー"
+    },
+    "54005": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole13.png",
+        "rank": 4,
+        "codename": "Amillion",
+        "en": "Amillion",
+        "desc": "A million Dennies in one Bangboo.",
+        "ko": "에밀리온",
+        "zh": "艾米莉安",
+        "ja": "アミリオン"
+    },
+    "54006": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole15.png",
+        "rank": 4,
+        "codename": "Rocketboo",
+        "en": "Rocketboo",
+        "desc": "This Bangboo accelerates for 17.5 steps when running a hundred kilometers.",
+        "ko": "날쌘부",
+        "zh": "飚速布",
+        "ja": "ハヤスギボンプ"
+    },
+    "54008": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole19.png",
+        "rank": 4,
+        "codename": "Plugboo",
+        "en": "Plugboo",
+        "desc": "\"Beeeeep... beep... beep beep.\"",
+        "ko": "플러그부",
+        "zh": "插头布",
+        "ja": "プラグノボンプ"
+    },
+    "54009": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole20.png",
+        "rank": 4,
+        "codename": "Resonaboo",
+        "en": "Resonaboo",
+        "desc": "Accumulating Ether energy...",
+        "ko": "공명부",
+        "zh": "共鸣布",
+        "ja": "レゾナンボンプ"
+    },
+    "54010": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole46.png",
+        "rank": 4,
+        "codename": "BiggestFan",
+        "en": "Biggest Fan",
+        "desc": "An Angels of Delusion superfan for life!",
+        "ko": "팬팬",
+        "zh": "阿饭",
+        "ja": "コサン"
+    },
+    "54011": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole26.png",
+        "rank": 4,
+        "codename": "Red Moccus",
+        "en": "Red Moccus",
+        "desc": "I'll be waiting for you on the off-road section of the Outer Ring!",
+        "ko": "레드모쿠스",
+        "zh": "赤红莫库斯",
+        "ja": "真紅のモックス"
+    },
+    "54012": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole25.png",
+        "rank": 4,
+        "codename": "Officer Cui",
+        "en": "Officer Cui",
+        "desc": "Though it may be a Bangboo, it's even more intimidating than a Security Canine!",
+        "ko": "최 순찰대원",
+        "zh": "阿崔巡查",
+        "ja": "ツェイ巡査"
+    },
+    "54013": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole23.png",
+        "rank": 4,
+        "codename": "Bangvolver",
+        "en": "Bangvolver",
+        "desc": "Today's Fortune: Amazing!",
+        "ko": "리볼버부",
+        "zh": "左轮布",
+        "ja": "リボルバボンプ"
+    },
+    "54014": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole28.png",
+        "rank": 4,
+        "codename": "Agent Gulliver",
+        "en": "Agent Gulliver",
+        "desc": "Security check! Open up!",
+        "ko": "걸리버 요원",
+        "zh": "格列佛探员",
+        "ja": "ガリバー隊員"
+    },
+    "54015": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole30.png",
+        "rank": 4,
+        "codename": "Snap",
+        "en": "Snap",
+        "desc": "Its flash only shines for true superstars.",
+        "ko": "찰칵이",
+        "zh": "咔嚓仔",
+        "ja": "カチャコ"
+    },
+    "54016": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole31.png",
+        "rank": 4,
+        "codename": "Robin",
+        "en": "Robin",
+        "desc": "Three, two, one! Don't blink!",
+        "ko": "로빈",
+        "zh": "罗宾",
+        "ja": "ロビン"
+    },
+    "54017": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole36.png",
+        "rank": 4,
+        "codename": "Belion",
+        "en": "Belion",
+        "desc": "The true essence of martial arts is the lightness and purity of heart.",
+        "ko": "사야",
+        "zh": "狮耶",
+        "ja": "オシシ"
+    },
+    "54018": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole37.png",
+        "rank": 4,
+        "codename": "Miss Esme",
+        "en": "Miss Esme",
+        "desc": "In the name of Starshine, I shall alter the course of destiny!",
+        "ko": "에스메 양",
+        "zh": "艾丝弥小姐",
+        "ja": "ミス・エスメ"
+    },
+    "54019": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole38.png",
+        "rank": 4,
+        "codename": "「Mercury」",
+        "en": "Mercury",
+        "desc": "A Bangboo uninterested in military merits is not a good soldier.",
+        "ko": "「머큐리」",
+        "zh": "「墨丘利」",
+        "ja": "「マーキュリー」"
+    },
+    "54020": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole42.png",
+        "rank": 4,
+        "codename": "Birkblick",
+        "en": "Birkblick",
+        "desc": "We're both caught in the camera's eye.",
+        "ko": "비르크블리크",
+        "zh": "比克布利克",
+        "ja": "ビャークブリック"
+    },
+    "54021": {
+        "icon": "UI\/Sprite\/A1DynamicLoad\/BangbooModGarage\/UnPacker\/BangbooRole\/BangbooGarageRole43.png",
+        "rank": 4,
+        "codename": "Sprout",
+        "en": "Sprout",
+        "desc": "Don't underestimate our bond!",
+        "ko": "싹싹",
+        "zh": "芽芽",
+        "ja": "メメ"
+    }
+}
