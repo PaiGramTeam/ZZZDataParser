@@ -8,8 +8,8 @@ import ujson
 from models.avatar import Avatar
 from models.enums import ZZZRank, ZZZElementType
 from path import avatars_path
-from src.hakush.base_data import get_base_data
-from src.hakush.url import avatar_config, ui_url
+from src.nanoka.base_data import get_base_data
+from src.nanoka.url import avatar_config, ui_url
 
 all_avatars: List[Avatar] = []
 all_avatars_en_map: Dict[str, Avatar] = {}
@@ -20,8 +20,8 @@ all_extra_avatars_map: Dict[str, List[str]] = {
 
 async def parse_config_to_avatar(_aid: str, config: Dict[str, str]) -> Avatar:
     aid = int(_aid)
-    name = config["CHS"]
-    name_en = config["EN"]
+    name = config["zh"]
+    name_en = config["en"]
     name_full = ""
     name_short = ""
     element = config["element"]

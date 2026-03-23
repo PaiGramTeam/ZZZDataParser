@@ -1,7 +1,7 @@
-from .hakush.avatar import main as main_avatar
-from .hakush.weapon import main as main_weapon
-from .hakush.equipment_suit import main as main_equipment_suit
-from .hakush.buddy import main as main_buddy
+from .nanoka.avatar import main as main_avatar
+from .nanoka.weapon import main as main_weapon
+from .nanoka.equipment_suit import main as main_equipment_suit
+from .nanoka.buddy import main as main_buddy
 from .official.data import main as main_official_data
 from .zenlessdiary.weapon import main as main_weapon_src
 from .zenlessdiary.equipment_suit import main as main_equipment_suit_src

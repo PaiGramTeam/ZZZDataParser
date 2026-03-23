@@ -1,4 +1,5 @@
 import asyncio
+from pathlib import Path
 
 from typing import Dict, List
 
@@ -7,8 +8,8 @@ import ujson
 
 from models.equipment_suit import EquipmentSuit
 from path import equipment_suits_path
-from src.hakush.base_data import get_base_data
-from src.hakush.url import equipment_suit_config
+from src.nanoka.base_data import get_base_data
+from src.nanoka.url import equipment_suit_config, ui_url
 
 all_equipment_suits: List[EquipmentSuit] = []
 all_equipment_suits_en_map: Dict[str, EquipmentSuit] = {}
@@ -19,9 +20,11 @@ async def parse_config_to_weapon(
     config: Dict[str, Dict[str, str]],
 ) -> EquipmentSuit:
     sid = int(_sid)
-    chs = config["CHS"]
+    chs = config["zh"]
     name = chs["name"]
-    name_en = config.get("EN", {}).get("name", "")
+    name_en = config.get("en", {}).get("name", "")
+    icon = Path(config["icon"]).name.replace(".png", ".webp") if config["icon"] else ""
+    icon = str(ui_url / icon) if icon else None
     desc_2 = chs["desc2"]
     desc_4 = chs["desc4"]
     story = ""
@@ -29,6 +32,7 @@ async def parse_config_to_weapon(
         id=sid,
         name=name,
         name_en=name_en,
+        icon=icon,
         desc_2=desc_2,
         desc_4=desc_4,
         story=story,

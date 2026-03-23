@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from models.enums import ZZZRank
 from src.client import client
 from .url import weapons_url
-from ..hakush.weapon import all_weapons_en_map
+from ..nanoka.weapon import all_weapons_en_map
 
 
 @dataclasses.dataclass

@@ -8,8 +8,8 @@ import ujson
 from models.enums import ZZZRank
 from models.weapon import Weapon
 from path import weapons_path
-from src.hakush.base_data import get_base_data
-from src.hakush.url import weapon_config, ui_url
+from src.nanoka.base_data import get_base_data
+from src.nanoka.url import weapon_config, ui_url
 
 all_weapons: List[Weapon] = []
 all_weapons_en_map: Dict[str, Weapon] = {}
@@ -20,8 +20,8 @@ async def parse_config_to_weapon(
     config: Dict[str, str],
 ) -> Weapon:
     wid = int(_wid)
-    name = config["CHS"]
-    name_en = config["EN"]
+    name = config["zh"]
+    name_en = config["en"]
     desc = config["desc"]
     icon = str(ui_url / f"{config['icon']}.webp") if config.get("icon") else None
     rank = ZZZRank.get_rank(int(config["rank"]) + 1)

@@ -2,8 +2,8 @@ from typing import Dict
 
 from .url import get_square_avatar_url, get_vertical_painting_url
 
-from ..hakush.avatar import all_avatars, dump_avatars
-from ..hakush.buddy import all_buddy, dump_buddy
+from ..nanoka.avatar import all_avatars, dump_avatars
+from ..nanoka.buddy import all_buddy, dump_buddy
 
 
 def apply_to_avatars():

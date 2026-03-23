@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 from src.client import client
 from src.prydwen.url import base_data_url, characters_url
-from src.hakush.avatar import all_avatars_en_map, dump_avatars
+from src.nanoka.avatar import all_avatars_en_map, dump_avatars
 
 AVATAR_MAP = {"Anby: Soldier 0": "Soldier 0 - Anby"}
 
