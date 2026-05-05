@@ -6,7 +6,10 @@ from src.client import client
 from src.prydwen.url import base_data_url, characters_url
 from src.nanoka.avatar import all_avatars_en_map, dump_avatars
 
-AVATAR_MAP = {"Anby: Soldier 0": "Soldier 0 - Anby"}
+AVATAR_MAP = {
+    "Anby: Soldier 0": "Soldier 0 - Anby",
+    "Billy - Starlight": "Starlight - Billy",
+}
 
 
 async def get_characters_html() -> str:

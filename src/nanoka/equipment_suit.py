@@ -18,13 +18,16 @@ all_equipment_suits_en_map: Dict[str, EquipmentSuit] = {}
 async def parse_config_to_weapon(
     _sid: str,
     config: Dict[str, Dict[str, str]],
-) -> EquipmentSuit:
+) -> EquipmentSuit | None:
     sid = int(_sid)
     chs = config["zh"]
     name = chs["name"]
     name_en = config.get("en", {}).get("name", "")
     icon = Path(config["icon"]).name.replace(".png", ".webp") if config["icon"] else ""
     icon = str(ui_url / icon) if icon else None
+    if not icon:
+        print(f"获取武器图标数据失败，请检查：{name} sid: {sid} config: {config}")
+        return None
     desc_2 = chs["desc2"]
     desc_4 = chs["desc4"]
     story = ""
@@ -44,7 +47,7 @@ async def fetch_equipment_suits() -> List[EquipmentSuit]:
     data = await get_base_data(equipment_suit_config)
     tasks = [parse_config_to_weapon(k, i) for k, i in data.items()]
     datas: List[EquipmentSuit] = await asyncio.gather(*tasks)
-    all_equipment_suits = datas
+    all_equipment_suits = [data for data in datas if data]
 
     all_equipment_suits_en_map.clear()
     for item in all_equipment_suits:
