@@ -31,6 +31,7 @@ async def parse_config_to_avatar(_aid: str, config: Dict[str, str]) -> Avatar:
     rank = ZZZRank.get_rank(int(config["rank"]) + 1) if config["rank"] else ZZZRank.NULL
     icon = config["icon"]
     gacha_icon = str(ui_url / f"{config['icon']}.webp") if icon else ""
+    normal_icon = gacha_icon.replace("IconRole", "IconRoleSelect")
     return Avatar(
         id=aid,
         name=name,
@@ -40,7 +41,7 @@ async def parse_config_to_avatar(_aid: str, config: Dict[str, str]) -> Avatar:
         rank=rank,
         element=element,
         speciality=speciality,
-        icon=["", "", "", gacha_icon],
+        icon=["", "", normal_icon, gacha_icon],
     )
 
 
